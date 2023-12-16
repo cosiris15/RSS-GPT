@@ -58,3 +58,9 @@ Append: [Baker McKenzie Austria advises Accenture on takeover of ARZ](https://ww
 Append: [Baker McKenzie advises owners of Digital Republic AG on their sale to mobilezone](https://www.bakermckenzie.com/en/newsroom/2022/12/digital-republic)
 append_entries: 50
 Finish: 2023-12-16 12:49:28.979740
+------------------------------------------------------
+Started: 2023-12-16 14:26:16.730460
+Existing_entries: 50
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2023-12-16 14:26:17.123325
