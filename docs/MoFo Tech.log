@@ -1,0 +1,30 @@
+------------------------------------------------------
+Started: 2023-12-16 10:33:48.778247
+Existing_entries: 0
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [AI Executive Order – Patent Issues](https://mofotech.mofo.com//topics/ai-executive-order-patent-issues)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [What's the Forecast for Tech M&A?](https://mofotech.mofo.com//topics/the-forecast-for-tech)
+Append: [Top 10 Considerations in Licensing Cleantech Innovations](https://mofotech.mofo.com//topics/top-10-considerations-in-licensing-cleantech-innovations)
+Append: [High Walls and Small Gardens: Biden Administration Unveils Outbound Investment Screening](https://mofotech.mofo.com//topics/high-walls-and-small-gardens-biden-administration-unveils-outbound-investment-screening)
+Append: [AI Leaders Commit to White House Supported Guidelines](https://mofotech.mofo.com//topics/ai-leaders-commit-to-white-house-supported-guidelines)
+Append: [Generative AI and Copyright: Roundtable Series Recap](https://mofotech.mofo.com//topics/generative-ai-and-copyright-roundtable-series-recap)
+Append: [New York City AI Law: Trials, Tribulations, And Uncertainties](https://mofotech.mofo.com//topics/new-york-city-ai-law-trials-tribulations-and-uncertainties)
+Append: [FDA Publishes Draft Guidance for Predetermined Change Control Plan for AI/ML-Enabled Device Software Functions](https://mofotech.mofo.com//topics/fda-publishes-draft-guidance-predetermined-change-control-plan-for-ai-ml-enabled-device-software-functions)
+Append: [10 Considerations When Licensing AI For Drug Discovery](https://mofotech.mofo.com//topics/considerations-when-licensing-ai-for-drug-discovery)
+Append: [Key Issues in Generative AI Transactions](https://mofotech.mofo.com//topics/issues-in-generative-ai-transactions)
+Append: [Responsible AI as Part of a Company's ESG Framework](https://mofotech.mofo.com//topics/responsible-ai-as-part-of-a-company-s-esg-framework)
+Append: [Generative AI and Copyright: Conference Recap](https://mofotech.mofo.com//topics/generative-ai-and-copyright-conference-recap)
+Append: [GPT-4 Release: Briefing on Model Improvements and Limitations](https://mofotech.mofo.com//topics/gpt-4-release-briefing-on-model-improvements-and-limitations)
+Append: [Copyright Office Denies Claim to Copyright in Generative AI Images](https://mofotech.mofo.com//topics/office-denies-claim-to-copyright-in-generative-ai-images)
+Append: [ISDA Digital Asset Derivatives Update](https://mofotech.mofo.com//topics/isda-digital-asset-derivatives-update)
+Append: [Cryptoasset Firms Marketing to UK Consumers Warned to Begin Preparing for Financial Promotions Regime Now](https://mofotech.mofo.com//topics/cryptoasset-firms-marketing-to-uk-consumers-warned-to-begin-preparing-for-financial-promotions-regime-now)
+Append: [Webinar - Responsible AI – Ethical Dilemma Training](https://mofotech.mofo.com//topics/webinar-responsible-ai-ethical-dilemma-training)
+Append: [Are Outputs of AI Models Copyrightable?](https://mofotech.mofo.com//topics/are-outputs-of-ai-models-copyrightable)
+Append: [AI Trends for 2023 - Public Attention to AI Will Continue to Rise](https://mofotech.mofo.com//topics/ai-trends-for-2023-public-attention-to-ai-will-continue-to-rise)
+Append: [AI Trends for 2023 - Increased Government Scrutiny of AI](https://mofotech.mofo.com//topics/ai-trends-for-2023-increased-government-scrutiny-of-ai)
+append_entries: 20
+Finish: 2023-12-16 10:33:54.932107

@@ -54,12 +54,9 @@
 
 如果你觉得本项目有帮助，欢迎 star。
 
-- https://brett.trpstra.net/brettterpstra -> https://yinan-c.github.io/RSS-GPT/brett-terpstra.xml
-- https://meta.appinn.net/tag/chrome.rss, https://meta.appinn.net/tag/ios.rss, https://meta.appinn.net/tag/macos.rss -> https://yinan-c.github.io/RSS-GPT/appinn.xml
-- https://rsshub.app/sspai/index -> https://yinan-c.github.io/RSS-GPT/sspai.xml
-- https://rknight.me/feed.xml -> https://yinan-c.github.io/RSS-GPT/robb-knight.xml
-- https://stephanango.com/feed.xml -> https://yinan-c.github.io/RSS-GPT/steph-ango.xml
-- https://lopespm.com/atom.xml -> https://yinan-c.github.io/RSS-GPT/byte-tank.xml
-- https://rsshub.app/36kr/motif/327685554177, https://rsshub.app/36kr/motif/327687077889, https://rsshub.app/36kr/motif/1366661828936836, https://rsshub.app/36kr/motif/1366662419875203, https://rsshub.app/36kr/motif/1756302767423108, https://rsshub.app/36kr/motif/327686815745, https://rsshub.app/36kr/motif/327685734401 -> https://yinan-c.github.io/RSS-GPT/36kr.xml
-- https://rsshub.app/36kr/motif/327686782977 -> https://yinan-c.github.io/RSS-GPT/36kr-ai.xml
-- https://rsshub.app/paulgraham/articles -> https://yinan-c.github.io/RSS-GPT/paul-graham.xml
+- https://brett.trpstra.net/brettterpstra -> https://cosiris15.github.io/RSS-GPT/brett-terpstra.xml
+- https://www.chinalawinsight.com/feed/ -> https://cosiris15.github.io/RSS-GPT/K&W.xml
+- https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property -> https://cosiris15.github.io/RSS-GPT/B&M IP.xml
+- https://mofotech.mofo.com/rss/feed.xml -> https://cosiris15.github.io/RSS-GPT/MoFo Tech.xml
+- https://www.hankunlaw.com/portal/list/index/id/8.html/feed -> https://cosiris15.github.io/RSS-GPT/Hankun.xml
+- https://rsshub.app/36kr/motif/327686782977 -> https://cosiris15.github.io/RSS-GPT/36kr-ai.xml
