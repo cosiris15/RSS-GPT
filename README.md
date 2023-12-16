@@ -52,7 +52,5 @@ I will consider hosting more feeds in the future. Email me or submit an issue if
 
 - https://brett.trpstra.net/brettterpstra -> https://cosiris15.github.io/RSS-GPT/brett-terpstra.xml
 - https://www.chinalawinsight.com/feed/ -> https://cosiris15.github.io/RSS-GPT/K&W.xml
-- https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property -> https://cosiris15.github.io/RSS-GPT/B&M IP.xml
-- https://mofotech.mofo.com/rss/feed.xml -> https://cosiris15.github.io/RSS-GPT/MoFo Tech.xml
-- https://www.hankunlaw.com/portal/list/index/id/8.html/feed -> https://cosiris15.github.io/RSS-GPT/Hankun.xml
-- https://rsshub.app/36kr/motif/327686782977 -> https://cosiris15.github.io/RSS-GPT/36kr-ai.xml
+- https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property -> https://cosiris15.github.io/RSS-GPT/B&M_IP.xml
+- https://mofotech.mofo.com/rss/feed.xml -> https://cosiris15.github.io/RSS-GPT/MoFo_Tech.xml
