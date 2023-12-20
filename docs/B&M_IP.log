@@ -325,3 +325,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Chambers Asia Pacific 2024 ranks Baker McKenzie in 151 practices](https://www.bakermckenzie.com/en/newsroom/2023/12/chambers-asia-pacific-2024-ranks-baker-mckenzie-in-151-practices)
 append_entries: 1
 Finish: 2023-12-20 10:24:44.172503
+------------------------------------------------------
+Started: 2023-12-20 12:40:03.465829
+Existing_entries: 51
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2023-12-20 12:40:04.029611
