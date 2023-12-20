@@ -362,3 +362,9 @@ Append: [Baker McKenzie Advises Thomson Reuters in Sale of Majority Interest in 
 Append: [Baker McKenzie advises Migros Group on investment in Revendo](https://www.bakermckenzie.com/en/newsroom/2023/01/migros-group)
 append_entries: 3
 Finish: 2023-12-20 20:24:52.886743
+------------------------------------------------------
+Started: 2023-12-20 22:28:31.042433
+Existing_entries: 54
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2023-12-20 22:28:31.636664
