@@ -316,3 +316,12 @@ Existing_entries: 50
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2023-12-20 08:23:05.725816
+------------------------------------------------------
+Started: 2023-12-20 10:24:40.885870
+Existing_entries: 50
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Chambers Asia Pacific 2024 ranks Baker McKenzie in 151 practices](https://www.bakermckenzie.com/en/newsroom/2023/12/chambers-asia-pacific-2024-ranks-baker-mckenzie-in-151-practices)
+append_entries: 1
+Finish: 2023-12-20 10:24:44.172503
