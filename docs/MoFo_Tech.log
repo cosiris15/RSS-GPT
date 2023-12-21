@@ -376,3 +376,12 @@ Existing_entries: 20
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2023-12-21 16:35:43.609135
+------------------------------------------------------
+Started: 2023-12-21 18:28:11.068415
+Existing_entries: 20
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [AI Trends For 2024 - EU DPAs Will Apply Requirements of the EU AI Act](https://mofotech.mofo.com//topics/eu-dpas-will-apply-requirements-of-the-eu-ai-act)
+append_entries: 1
+Finish: 2023-12-21 18:28:14.105263
