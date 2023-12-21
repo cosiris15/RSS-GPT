@@ -13531,3 +13531,14 @@ Filter: [Save yourself from unwanted emails with TextExpander [Sponsor]](https:/
 Filter: [Create TextExpander snippets with ChatGPT [Sponsor]](https://brett.trpstra.net/link/535/16438196/create-textexpander-snippets-with-chatgpt-sponsor)
 append_entries: 0
 Finish: 2023-12-21 12:53:17.201891
+------------------------------------------------------
+Started: 2023-12-21 14:27:40.639810
+Existing_entries: 93
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [HoudahSpot: Powerful file search -- skip filing, start finding [Sponsor]](https://brett.trpstra.net/link/535/16504780/houdahspot-powerful-file-search-skip-filing-start-finding-sponsor)
+Filter: [Save yourself from unwanted emails with TextExpander [Sponsor]](https://brett.trpstra.net/link/535/16495655/save-yourself-from-unwanted-emails-with-textexpander-sponsor)
+Filter: [Create TextExpander snippets with ChatGPT [Sponsor]](https://brett.trpstra.net/link/535/16438196/create-textexpander-snippets-with-chatgpt-sponsor)
+append_entries: 1
+Finish: 2023-12-21 14:27:44.808814
