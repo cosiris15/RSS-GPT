@@ -442,3 +442,12 @@ Existing_entries: 22
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2023-12-22 14:27:24.954226
+------------------------------------------------------
+Started: 2023-12-22 16:32:56.249768
+Existing_entries: 22
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [AI Trends For 2024 - U.S. State Consumer Privacy Laws’ Focus on Automated Decision-Making and Profiling](https://mofotech.mofo.com//topics/ai-trends-for-2024---u-s-state-consumer-privacy-laws-focus-on-automated-decision-making-and-profiling)
+append_entries: 1
+Finish: 2023-12-22 16:32:59.583589
