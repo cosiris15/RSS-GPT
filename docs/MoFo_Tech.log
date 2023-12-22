@@ -457,3 +457,12 @@ Existing_entries: 23
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2023-12-22 18:29:02.227964
+------------------------------------------------------
+Started: 2023-12-22 20:23:58.058906
+Existing_entries: 23
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [AI Trends For 2024 - U.S. Laws Will Focus on the Use of AI in Hiring](https://mofotech.mofo.com//topics/us-laws-will-focus-on-the-use-of-ai-in-hiring)
+append_entries: 1
+Finish: 2023-12-22 20:24:01.358692
