@@ -778,3 +778,9 @@ Append: [中国のデータ越境移転の安全評価と標準契約締結に�
 Append: [最近の法施行及び実務を踏まえた中国独禁法関連新規定の解説](https://www.chinalawinsight.com/2023/12/articles/uncategorized/%e6%9c%80%e8%bf%91%e3%81%ae%e6%b3%95%e6%96%bd%e8%a1%8c%e5%8f%8a%e3%81%b3%e5%ae%9f%e5%8b%99%e3%82%92%e8%b8%8f%e3%81%be%e3%81%88%e3%81%9f%e4%b8%ad%e5%9b%bd%e7%8b%ac%e7%a6%81%e6%b3%95%e9%96%a2%e9%80%a3/)
 append_entries: 10
 Finish: 2023-12-27 10:30:51.299023
+------------------------------------------------------
+Started: 2023-12-27 12:50:42.950182
+Existing_entries: 30
+Fetching from https://www.chinalawinsight.com/feed/
+append_entries: 0
+Finish: 2023-12-27 12:50:43.277871
