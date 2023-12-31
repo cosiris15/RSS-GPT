@@ -1064,3 +1064,12 @@ Existing_entries: 54
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2023-12-31 10:28:57.337228
+------------------------------------------------------
+Started: 2023-12-31 12:49:29.198570
+Existing_entries: 54
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Arrival of Florence D'Ath](https://www.bakermckenzie.com/en/newsroom/2023/01/florence-d-ath-arrival)
+append_entries: 1
+Finish: 2023-12-31 12:49:32.560956
