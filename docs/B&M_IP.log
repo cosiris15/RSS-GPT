@@ -1073,3 +1073,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Arrival of Florence D'Ath](https://www.bakermckenzie.com/en/newsroom/2023/01/florence-d-ath-arrival)
 append_entries: 1
 Finish: 2023-12-31 12:49:32.560956
+------------------------------------------------------
+Started: 2023-12-31 14:25:21.468324
+Existing_entries: 55
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2023-12-31 14:25:21.924849
