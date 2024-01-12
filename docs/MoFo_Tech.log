@@ -1804,3 +1804,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [AI Trends For 2024 - IRS Adopts AI-Powered Audit Selection Tools, Hires Technology-Focused Leadership](https://mofotech.mofo.com//topics/ai-trends-for-2024-irs-adopts-ai-powered-audit-selection-tools-hires-technology-focused-leadership)
 append_entries: 1
 Finish: 2024-01-11 22:29:27.337128
+------------------------------------------------------
+Started: 2024-01-12 02:19:27.144949
+Existing_entries: 28
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [AI Trends For 2024 - Responsible AI isn't just for Big Tech](https://mofotech.mofo.com//topics/ai-trends-for-2024-responsible-ai-isn-t-just-for-big-tech)
+append_entries: 1
+Finish: 2024-01-12 02:19:30.158814
