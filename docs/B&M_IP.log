@@ -2114,3 +2114,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Embracing AI](https://www.bakermckenzie.com/en/insight/events/2024/01/embracing-ai)
 append_entries: 1
 Finish: 2024-01-16 06:22:42.773801
+------------------------------------------------------
+Started: 2024-01-16 08:21:48.664208
+Existing_entries: 56
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-01-16 08:21:49.201508
