@@ -2120,3 +2120,12 @@ Existing_entries: 56
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-01-16 08:21:49.201508
+------------------------------------------------------
+Started: 2024-01-16 10:18:32.866591
+Existing_entries: 56
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie advises Edwardian Group Limited on sale of 10-hotel portfolio to Starwood Capital](https://www.bakermckenzie.com/en/newsroom/2024/01/edwardian-group-sale-of-hotel-portfolio-to-starwood)
+append_entries: 1
+Finish: 2024-01-16 10:18:36.519893
