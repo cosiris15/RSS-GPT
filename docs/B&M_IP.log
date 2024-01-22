@@ -2555,3 +2555,12 @@ Existing_entries: 57
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-01-22 08:23:03.748412
+------------------------------------------------------
+Started: 2024-01-22 10:18:47.926661
+Existing_entries: 57
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Chambers Greater China 2024 Guide recognizes Baker McKenzie in 30 practices in China](https://www.bakermckenzie.com/en/newsroom/2024/01/chambers-greater-china-2024-guide)
+append_entries: 1
+Finish: 2024-01-22 10:18:51.656990
