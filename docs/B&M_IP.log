@@ -2606,3 +2606,12 @@ Existing_entries: 58
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-01-23 01:17:02.368844
+------------------------------------------------------
+Started: 2024-01-23 02:32:09.338262
+Existing_entries: 58
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie upholds top rankings across 9 practices in Taiwan in Chambers Greater China 2024 Guide](https://www.bakermckenzie.com/en/newsroom/2024/01/taiwan-top-rankings-in-chambers-2024-guide)
+append_entries: 1
+Finish: 2024-01-23 02:32:12.521720
