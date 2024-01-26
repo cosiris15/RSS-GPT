@@ -2861,3 +2861,12 @@ Existing_entries: 59
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-01-26 12:29:06.608429
+------------------------------------------------------
+Started: 2024-01-26 14:14:39.594268
+Existing_entries: 59
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie assists with the sale of SYSTRAN to French group ChapsVision](https://www.bakermckenzie.com/en/newsroom/2024/01/sale-of-systran-to-chapsvision)
+append_entries: 1
+Finish: 2024-01-26 14:14:43.299879
