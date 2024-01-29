@@ -3092,3 +3092,12 @@ Existing_entries: 60
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-01-29 16:19:34.079794
+------------------------------------------------------
+Started: 2024-01-29 18:19:42.914514
+Existing_entries: 60
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Healthcare & Life Sciences Patent Enablement and What It Means for Your Transactions or Litigation](https://www.bakermckenzie.com/en/insight/events/2024/02/healthcare-life-sciences-patent-enablement)
+append_entries: 1
+Finish: 2024-01-29 18:19:46.492793
