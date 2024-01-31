@@ -3201,3 +3201,21 @@ Append: [上市公司刑事犯罪报告（2023年度）](https://www.chinalawins
 Append: [承包商视角 · 跨境工程款延付融资和再融资交易的“十问十答”（下篇）](https://www.chinalawinsight.com/2024/01/articles/uncategorized/%e6%89%bf%e5%8c%85%e5%95%86%e8%a7%86%e8%a7%92-%c2%b7-%e8%b7%a8%e5%a2%83%e5%b7%a5%e7%a8%8b%e6%ac%be%e5%bb%b6%e4%bb%98%e8%9e%8d%e8%b5%84%e5%92%8c%e5%86%8d%e8%9e%8d%e8%b5%84%e4%ba%a4%e6%98%93%e7%9a%84/)
 append_entries: 9
 Finish: 2024-01-31 06:20:35.818260
+------------------------------------------------------
+Started: 2024-01-31 08:19:14.311395
+Existing_entries: 49
+Fetching from https://www.chinalawinsight.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [承包商视角 · 跨境工程款延付融资和再融资交易的“十问十答”（上篇）](https://www.chinalawinsight.com/2024/01/articles/uncategorized/%e6%89%bf%e5%8c%85%e5%95%86%e8%a7%86%e8%a7%92-%c2%b7-%e8%b7%a8%e5%a2%83%e5%b7%a5%e7%a8%8b%e6%ac%be%e5%bb%b6%e4%bb%98%e8%9e%8d%e8%b5%84%e5%92%8c%e5%86%8d%e8%9e%8d%e8%b5%84%e4%ba%a4%e6%98%93%e7%9a%84-2/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [海南自由贸易港法律法规及政策解读——海关进出口监管争议问题合规处理](https://www.chinalawinsight.com/2024/01/articles/uncategorized/%e6%b5%b7%e5%8d%97%e8%87%aa%e7%94%b1%e8%b4%b8%e6%98%93%e6%b8%af%e6%b3%95%e5%be%8b%e6%b3%95%e8%a7%84%e5%8f%8a%e6%94%bf%e7%ad%96%e8%a7%a3%e8%af%bb-%e6%b5%b7%e5%85%b3%e8%bf%9b%e5%87%ba/)
+Append: [民诉法修改解读：不方便管辖的变与不变](https://www.chinalawinsight.com/2024/01/articles/uncategorized/%e6%b0%91%e8%af%89%e6%b3%95%e4%bf%ae%e6%94%b9%e8%a7%a3%e8%af%bb%ef%bc%9a%e4%b8%8d%e6%96%b9%e4%be%bf%e7%ae%a1%e8%be%96%e7%9a%84%e5%8f%98%e4%b8%8e%e4%b8%8d%e5%8f%98/)
+Append: [耕于本手，方得妙手——从技术秘密侵权诉讼实践的角度谈企业的技术秘密保护](https://www.chinalawinsight.com/2024/01/articles/uncategorized/%e8%80%95%e4%ba%8e%e6%9c%ac%e6%89%8b%ef%bc%8c%e6%96%b9%e5%be%97%e5%a6%99%e6%89%8b-%e4%bb%8e%e6%8a%80%e6%9c%af%e7%a7%98%e5%af%86%e4%be%b5%e6%9d%83%e8%af%89%e8%ae%bc%e5%ae%9e%e8%b7%b5/)
+Append: [2023年涉美出口管制与经济制裁年度回顾及展望](https://www.chinalawinsight.com/2024/01/articles/uncategorized/2023%e5%b9%b4%e6%b6%89%e7%be%8e%e5%87%ba%e5%8f%a3%e7%ae%a1%e5%88%b6%e4%b8%8e%e7%bb%8f%e6%b5%8e%e5%88%b6%e8%a3%81%e5%b9%b4%e5%ba%a6%e5%9b%9e%e9%a1%be%e5%8f%8a%e5%b1%95%e6%9c%9b/)
+Append: [解决海关商品归类争议的实践与探索：WCO商品归类意见的国内法转化](https://www.chinalawinsight.com/2024/01/articles/uncategorized/%e8%a7%a3%e5%86%b3%e6%b5%b7%e5%85%b3%e5%95%86%e5%93%81%e5%bd%92%e7%b1%bb%e4%ba%89%e8%ae%ae%e7%9a%84%e5%ae%9e%e8%b7%b5%e4%b8%8e%e6%8e%a2%e7%b4%a2%ef%bc%9awco%e5%95%86%e5%93%81%e5%bd%92%e7%b1%bb/)
+Append: [见义勇为纳入视同工伤的实务探讨——94号指导案例分析](https://www.chinalawinsight.com/2024/01/articles/uncategorized/%e8%a7%81%e4%b9%89%e5%8b%87%e4%b8%ba%e7%ba%b3%e5%85%a5%e8%a7%86%e5%90%8c%e5%b7%a5%e4%bc%a4%e7%9a%84%e5%ae%9e%e5%8a%a1%e6%8e%a2%e8%ae%a8-94%e5%8f%b7%e6%8c%87%e5%af%bc%e6%a1%88%e4%be%8b/)
+Append: [勿将纳税调整当偷税](https://www.chinalawinsight.com/2024/01/articles/uncategorized/%e5%8b%bf%e5%b0%86%e7%ba%b3%e7%a8%8e%e8%b0%83%e6%95%b4%e5%bd%93%e5%81%b7%e7%a8%8e/)
+append_entries: 8
+Finish: 2024-01-31 08:19:21.067339
