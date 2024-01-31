@@ -3219,3 +3219,20 @@ Append: [见义勇为纳入视同工伤的实务探讨——94号指导案例分
 Append: [勿将纳税调整当偷税](https://www.chinalawinsight.com/2024/01/articles/uncategorized/%e5%8b%bf%e5%b0%86%e7%ba%b3%e7%a8%8e%e8%b0%83%e6%95%b4%e5%bd%93%e5%81%b7%e7%a8%8e/)
 append_entries: 8
 Finish: 2024-01-31 08:19:21.067339
+------------------------------------------------------
+Started: 2024-01-31 10:16:56.603425
+Existing_entries: 57
+Fetching from https://www.chinalawinsight.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [解读“数据要素X”三年行动计划之智能网联汽车产业合规](https://www.chinalawinsight.com/2024/01/articles/uncategorized/%e8%a7%a3%e8%af%bb%e6%95%b0%e6%8d%ae%e8%a6%81%e7%b4%a0x%e4%b8%89%e5%b9%b4%e8%a1%8c%e5%8a%a8%e8%ae%a1%e5%88%92%e4%b9%8b%e6%99%ba%e8%83%bd%e7%bd%91%e8%81%94%e6%b1%bd%e8%bd%a6%e4%ba%a7/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [ESG治理专题：GRI指标中国落地指南](https://www.chinalawinsight.com/2024/01/articles/uncategorized/esg%e6%b2%bb%e7%90%86%e4%b8%93%e9%a2%98%ef%bc%9agri%e6%8c%87%e6%a0%87%e4%b8%ad%e5%9b%bd%e8%90%bd%e5%9c%b0%e6%8c%87%e5%8d%97/)
+Append: [FINCEN’S BENEFICIAL OWNERSHIP REPORTING RULE](https://www.chinalawinsight.com/2024/01/articles/uncategorized/fincens-beneficial-ownership-reporting-rule/)
+Append: [AI原生应用相关法律问题研究：AI+虚拟数字人的法律问题](https://www.chinalawinsight.com/2024/01/articles/uncategorized/ai%e5%8e%9f%e7%94%9f%e5%ba%94%e7%94%a8%e7%9b%b8%e5%85%b3%e6%b3%95%e5%be%8b%e9%97%ae%e9%a2%98%e7%a0%94%e7%a9%b6%ef%bc%9aai%e8%99%9a%e6%8b%9f%e6%95%b0%e5%ad%97%e4%ba%ba%e7%9a%84%e6%b3%95%e5%be%8b/)
+Append: [聚焦沙特阿拉伯：矿产自然资源开发](https://www.chinalawinsight.com/2024/01/articles/uncategorized/%e8%81%9a%e7%84%a6%e6%b2%99%e7%89%b9%e9%98%bf%e6%8b%89%e4%bc%af%ef%bc%9a%e7%9f%bf%e4%ba%a7%e8%87%aa%e7%84%b6%e8%b5%84%e6%ba%90%e5%bc%80%e5%8f%91/)
+Append: [临港深度观察：外汇政策支持与管理创新](https://www.chinalawinsight.com/2024/01/articles/uncategorized/%e4%b8%b4%e6%b8%af%e6%b7%b1%e5%ba%a6%e8%a7%82%e5%af%9f%ef%bc%9a%e5%a4%96%e6%b1%87%e6%94%bf%e7%ad%96%e6%94%af%e6%8c%81%e4%b8%8e%e7%ae%a1%e7%90%86%e5%88%9b%e6%96%b0/)
+Append: [食品企业申请北交所上市的实践案例与重点问题探析](https://www.chinalawinsight.com/2024/01/articles/uncategorized/%e9%a3%9f%e5%93%81%e4%bc%81%e4%b8%9a%e7%94%b3%e8%af%b7%e5%8c%97%e4%ba%a4%e6%89%80%e4%b8%8a%e5%b8%82%e7%9a%84%e5%ae%9e%e8%b7%b5%e6%a1%88%e4%be%8b%e4%b8%8e%e9%87%8d%e7%82%b9%e9%97%ae%e9%a2%98%e6%8e%a2/)
+append_entries: 7
+Finish: 2024-01-31 10:17:03.035415
