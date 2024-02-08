@@ -3827,3 +3827,15 @@ Existing_entries: 61
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-02-08 20:16:02.196225
+------------------------------------------------------
+Started: 2024-02-08 22:14:43.009039
+Existing_entries: 61
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie advises Sumitomo Rubber Industries in its share transfer of subsidiary Lonstroff](https://www.bakermckenzie.com/en/newsroom/2024/02/sumitomo-rubber-industries-in-its-share-transfer-of-subsidiary-lonstroff)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie Advises Monumental Studios, Inc. on Acquisition of Kongregate](https://www.bakermckenzie.com/en/newsroom/2024/02/monumental-studios-inc-on-acquisition-of-kongregate)
+append_entries: 2
+Finish: 2024-02-08 22:14:49.616782
