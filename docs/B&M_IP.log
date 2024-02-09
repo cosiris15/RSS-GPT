@@ -3839,3 +3839,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie Advises Monumental Studios, Inc. on Acquisition of Kongregate](https://www.bakermckenzie.com/en/newsroom/2024/02/monumental-studios-inc-on-acquisition-of-kongregate)
 append_entries: 2
 Finish: 2024-02-08 22:14:49.616782
+------------------------------------------------------
+Started: 2024-02-09 01:08:45.263403
+Existing_entries: 63
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-02-09 01:08:45.710398
