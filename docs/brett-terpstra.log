@@ -17860,3 +17860,13 @@ Fetching from https://brett.trpstra.net/brettterpstra
 Filter: [Save yourself from unwanted emails with TextExpander [Sponsor]](https://brett.trpstra.net/link/535/16495655/save-yourself-from-unwanted-emails-with-textexpander-sponsor)
 append_entries: 0
 Finish: 2024-02-09 18:19:32.991394
+------------------------------------------------------
+Started: 2024-02-09 20:16:03.608088
+Existing_entries: 121
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The HoudahSpot giveaway winners!](https://brett.trpstra.net/link/535/16567716/the-houdahspot-giveaway-winners)
+Filter: [Save yourself from unwanted emails with TextExpander [Sponsor]](https://brett.trpstra.net/link/535/16495655/save-yourself-from-unwanted-emails-with-textexpander-sponsor)
+append_entries: 1
+Finish: 2024-02-09 20:16:07.102488
