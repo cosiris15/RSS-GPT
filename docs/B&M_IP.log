@@ -4142,3 +4142,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Embracing AI: Organizational Change and Navigating Legal Development](https://www.bakermckenzie.com/en/insight/events/2024/02/embracing-ai-tokyo)
 append_entries: 1
 Finish: 2024-02-13 02:21:06.163583
+------------------------------------------------------
+Started: 2024-02-13 04:18:46.505717
+Existing_entries: 64
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-02-13 04:18:47.128526
