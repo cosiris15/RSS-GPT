@@ -18554,3 +18554,13 @@ Fetching from https://brett.trpstra.net/brettterpstra
 Filter: [Save yourself from unwanted emails with TextExpander [Sponsor]](https://brett.trpstra.net/link/535/16495655/save-yourself-from-unwanted-emails-with-textexpander-sponsor)
 append_entries: 0
 Finish: 2024-02-17 20:15:26.383663
+------------------------------------------------------
+Started: 2024-02-17 22:17:22.370351
+Existing_entries: 126
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [A Cerakey ceramic keycap review](https://brett.trpstra.net/link/535/16580751/a-cerakey-ceramic-keycap-review)
+Filter: [Save yourself from unwanted emails with TextExpander [Sponsor]](https://brett.trpstra.net/link/535/16495655/save-yourself-from-unwanted-emails-with-textexpander-sponsor)
+append_entries: 1
+Finish: 2024-02-17 22:17:26.089785
