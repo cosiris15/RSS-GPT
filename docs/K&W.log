@@ -4580,3 +4580,22 @@ Existing_entries: 64
 Fetching from https://www.chinalawinsight.com/feed/
 append_entries: 0
 Finish: 2024-02-19 02:22:36.012855
+------------------------------------------------------
+Started: 2024-02-19 04:19:10.983752
+Existing_entries: 64
+Fetching from https://www.chinalawinsight.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [最终话：新申报标准落地出台，经营者集中申报焕然一新](https://www.chinalawinsight.com/2024/02/articles/uncategorized/%e6%9c%80%e7%bb%88%e8%af%9d%ef%bc%9a%e6%96%b0%e7%94%b3%e6%8a%a5%e6%a0%87%e5%87%86%e8%90%bd%e5%9c%b0%e5%87%ba%e5%8f%b0%ef%bc%8c%e7%bb%8f%e8%90%a5%e8%80%85%e9%9b%86%e4%b8%ad%e7%94%b3%e6%8a%a5%e7%84%95/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [WHAT FIES SHOULD KNOW ABOUT THE PRC NEW COMPANY LAW](https://www.chinalawinsight.com/2024/02/articles/uncategorized/what-fies-should-know-about-the-prc-new-company-law/)
+Append: [深圳新版QFLP图文解读](https://www.chinalawinsight.com/2024/02/articles/uncategorized/%e6%b7%b1%e5%9c%b3%e6%96%b0%e7%89%88qflp%e5%9b%be%e6%96%87%e8%a7%a3%e8%af%bb/)
+Append: [STABLECOINS: 香港政府建议实施稳定币监管制度](https://www.chinalawinsight.com/2024/02/articles/uncategorized/stablecoins-%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%bb%ba%e8%ae%ae%e5%ae%9e%e6%96%bd%e7%a8%b3%e5%ae%9a%e5%b8%81%e7%9b%91%e7%ae%a1%e5%88%b6%e5%ba%a6/)
+Append: [广州市律师协会首部跨境贸易行业性指引：《广州市跨境电商业务经营者合规指引》快评](https://www.chinalawinsight.com/2024/02/articles/uncategorized/%e5%b9%bf%e5%b7%9e%e5%b8%82%e5%be%8b%e5%b8%88%e5%8d%8f%e4%bc%9a%e9%a6%96%e9%83%a8%e8%b7%a8%e5%a2%83%e8%b4%b8%e6%98%93%e8%a1%8c%e4%b8%9a%e6%80%a7%e6%8c%87%e5%bc%95%ef%bc%9a%e3%80%8a%e5%b9%bf%e5%b7%9e/)
+Append: [我国公司出资认缴制度的“昨是”与“今非”？——对新《公司法》注册资本限期认缴新规的思考](https://www.chinalawinsight.com/2024/02/articles/uncategorized/%e6%88%91%e5%9b%bd%e5%85%ac%e5%8f%b8%e5%87%ba%e8%b5%84%e8%ae%a4%e7%bc%b4%e5%88%b6%e5%ba%a6%e7%9a%84%e6%98%a8%e6%98%af%e4%b8%8e%e4%bb%8a%e9%9d%9e%ef%bc%9f/)
+Append: [关联交易之“授受不亲”——税企关注的转让定价问题系列谈丨有形资产交易篇](https://www.chinalawinsight.com/2024/02/articles/uncategorized/%e5%85%b3%e8%81%94%e4%ba%a4%e6%98%93%e4%b9%8b%e6%8e%88%e5%8f%97%e4%b8%8d%e4%ba%b2-%e7%a8%8e%e4%bc%81%e5%85%b3%e6%b3%a8%e7%9a%84%e8%bd%ac%e8%ae%a9%e5%ae%9a%e4%bb%b7-4/)
+Append: [关联交易之“授受不亲”——税企关注的转让定价问题系列谈丨无形资产交易篇](https://www.chinalawinsight.com/2024/02/articles/uncategorized/%e5%85%b3%e8%81%94%e4%ba%a4%e6%98%93%e4%b9%8b%e6%8e%88%e5%8f%97%e4%b8%8d%e4%ba%b2-%e7%a8%8e%e4%bc%81%e5%85%b3%e6%b3%a8%e7%9a%84%e8%bd%ac%e8%ae%a9%e5%ae%9a%e4%bb%b7-3/)
+Append: [关联交易之“授受不亲”——税企关注的转让定价问题系列谈丨资金融通交易篇](https://www.chinalawinsight.com/2024/02/articles/uncategorized/%e5%85%b3%e8%81%94%e4%ba%a4%e6%98%93%e4%b9%8b%e6%8e%88%e5%8f%97%e4%b8%8d%e4%ba%b2-%e7%a8%8e%e4%bc%81%e5%85%b3%e6%b3%a8%e7%9a%84%e8%bd%ac%e8%ae%a9%e5%ae%9a%e4%bb%b7-2/)
+append_entries: 9
+Finish: 2024-02-19 04:19:17.238276
