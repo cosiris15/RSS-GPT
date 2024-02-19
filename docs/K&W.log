@@ -4599,3 +4599,12 @@ Append: [关联交易之“授受不亲”——税企关注的转让定价问�
 Append: [关联交易之“授受不亲”——税企关注的转让定价问题系列谈丨资金融通交易篇](https://www.chinalawinsight.com/2024/02/articles/uncategorized/%e5%85%b3%e8%81%94%e4%ba%a4%e6%98%93%e4%b9%8b%e6%8e%88%e5%8f%97%e4%b8%8d%e4%ba%b2-%e7%a8%8e%e4%bc%81%e5%85%b3%e6%b3%a8%e7%9a%84%e8%bd%ac%e8%ae%a9%e5%ae%9a%e4%bb%b7-2/)
 append_entries: 9
 Finish: 2024-02-19 04:19:17.238276
+------------------------------------------------------
+Started: 2024-02-19 06:21:55.949734
+Existing_entries: 73
+Fetching from https://www.chinalawinsight.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [新法速评：经营者集中申报采用新标准](https://www.chinalawinsight.com/2024/02/articles/uncategorized/%e6%96%b0%e6%b3%95%e9%80%9f%e8%af%84%ef%bc%9a%e7%bb%8f%e8%90%a5%e8%80%85%e9%9b%86%e4%b8%ad%e7%94%b3%e6%8a%a5%e9%87%87%e7%94%a8%e6%96%b0%e6%a0%87%e5%87%86/)
+append_entries: 1
+Finish: 2024-02-19 06:21:58.875429
