@@ -5093,3 +5093,12 @@ Existing_entries: 65
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-02-26 06:21:49.445480
+------------------------------------------------------
+Started: 2024-02-26 08:20:09.290141
+Existing_entries: 65
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [2024 Asia Pacific Healthcare & Life Sciences Summit](https://www.bakermckenzie.com/en/insight/events/2024/03/ap-hls-summit-2024)
+append_entries: 1
+Finish: 2024-02-26 08:20:12.833399
