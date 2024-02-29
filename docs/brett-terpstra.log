@@ -19441,3 +19441,15 @@ Existing_entries: 133
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-02-29 14:17:57.163484
+------------------------------------------------------
+Started: 2024-02-29 16:19:22.452105
+Existing_entries: 133
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [How to Compose Reminder Emails [Sponsor]](https://brett.trpstra.net/link/535/16596954/how-to-compose-reminder-emails-sponsor)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Dimspire.me on Product Hunt](https://brett.trpstra.net/link/535/16596955/dimspire-dot-me-on-product-hunt)
+append_entries: 2
+Finish: 2024-02-29 16:19:29.331058
