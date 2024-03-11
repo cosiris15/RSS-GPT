@@ -20242,3 +20242,12 @@ Existing_entries: 140
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-03-11 12:30:13.904504
+------------------------------------------------------
+Started: 2024-03-11 14:14:53.993710
+Existing_entries: 140
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Bike giveaway!](https://brett.trpstra.net/link/535/16609291/bike-giveaway)
+append_entries: 1
+Finish: 2024-03-11 14:14:58.164647
