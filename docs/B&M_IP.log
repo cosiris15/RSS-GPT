@@ -6356,3 +6356,12 @@ Existing_entries: 66
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-03-14 20:17:34.290225
+------------------------------------------------------
+Started: 2024-03-14 22:14:36.687326
+Existing_entries: 66
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie advises EQT Life Sciences on a EUR 128 million Series B2 financing of Tubulis GmbH](https://www.bakermckenzie.com/en/newsroom/2024/03/eqt-life-sciences-on-a-eur-128-million-series-b2)
+append_entries: 1
+Finish: 2024-03-14 22:14:40.488916
