@@ -20830,3 +20830,12 @@ Existing_entries: 144
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-03-19 14:15:11.098077
+------------------------------------------------------
+Started: 2024-03-19 16:20:46.613548
+Existing_entries: 144
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Web Excursions for March 19, 2024](https://brett.trpstra.net/link/535/16624673/web-excursions-for-march-19-2024)
+append_entries: 1
+Finish: 2024-03-19 16:20:50.381574
