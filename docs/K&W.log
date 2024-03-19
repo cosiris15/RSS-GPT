@@ -6737,3 +6737,12 @@ Existing_entries: 111
 Fetching from https://www.chinalawinsight.com/feed/
 append_entries: 0
 Finish: 2024-03-19 06:20:26.609121
+------------------------------------------------------
+Started: 2024-03-19 08:19:51.322694
+Existing_entries: 111
+Fetching from https://www.chinalawinsight.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [新《公司法》修订的税务影响——法财税结合的视角](https://www.chinalawinsight.com/2024/03/articles/uncategorized/%e6%96%b0%e3%80%8a%e5%85%ac%e5%8f%b8%e6%b3%95%e3%80%8b%e4%bf%ae%e8%ae%a2%e7%9a%84%e7%a8%8e%e5%8a%a1%e5%bd%b1%e5%93%8d-%e6%b3%95%e8%b4%a2%e7%a8%8e%e7%bb%93%e5%90%88%e7%9a%84%e8%a7%86/)
+append_entries: 1
+Finish: 2024-03-19 08:19:54.803315
