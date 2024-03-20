@@ -6818,3 +6818,23 @@ Existing_entries: 112
 Fetching from https://www.chinalawinsight.com/feed/
 append_entries: 0
 Finish: 2024-03-20 08:20:07.058369
+------------------------------------------------------
+Started: 2024-03-20 10:16:41.720327
+Existing_entries: 112
+Fetching from https://www.chinalawinsight.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [跨境理财通迎来2.0时代](https://www.chinalawinsight.com/2024/03/articles/uncategorized/%e8%b7%a8%e5%a2%83%e7%90%86%e8%b4%a2%e9%80%9a%e8%bf%8e%e6%9d%a52-0%e6%97%b6%e4%bb%a3/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [量化私募基金稳健发展之道：拥抱监管，合规前行](https://www.chinalawinsight.com/2024/03/articles/uncategorized/%e9%87%8f%e5%8c%96%e7%a7%81%e5%8b%9f%e5%9f%ba%e9%87%91%e7%a8%b3%e5%81%a5%e5%8f%91%e5%b1%95%e4%b9%8b%e9%81%93%ef%bc%9a%e6%8b%a5%e6%8a%b1%e7%9b%91%e7%ae%a1%ef%bc%8c%e5%90%88%e8%a7%84%e5%89%8d%e8%a1%8c/)
+Append: [书当快意读易尽——通过SORA读懂我国新兴领域立法及合规指引](https://www.chinalawinsight.com/2024/03/articles/uncategorized/%e4%b9%a6%e5%bd%93%e5%bf%ab%e6%84%8f%e8%af%bb%e6%98%93%e5%b0%bd-%e9%80%9a%e8%bf%87sora%e8%af%bb%e6%87%82%e6%88%91%e5%9b%bd%e6%96%b0%e5%85%b4%e9%a2%86%e5%9f%9f%e7%ab%8b%e6%b3%95/)
+Append: [行至水穷处，坐看云起时——如何理解和应对美国限制访问敏感个人数据行政命令](https://www.chinalawinsight.com/2024/03/articles/uncategorized/%e8%a1%8c%e8%87%b3%e6%b0%b4%e7%a9%b7%e5%a4%84%ef%bc%8c%e5%9d%90%e7%9c%8b%e4%ba%91%e8%b5%b7%e6%97%b6-%e5%a6%82%e4%bd%95%e7%90%86%e8%a7%a3%e5%92%8c%e5%ba%94%e5%af%b9%e7%be%8e%e5%9b%bd/)
+Append: [一剑双刃，敬请善用——浅谈《刑法修正案（十二）》对民营企业反腐的影响](https://www.chinalawinsight.com/2024/03/articles/uncategorized/%e4%b8%80%e5%89%91%e5%8f%8c%e5%88%83%ef%bc%8c%e6%95%ac%e8%af%b7%e5%96%84%e7%94%a8-%e6%b5%85%e8%b0%88%e3%80%8a%e5%88%91%e6%b3%95%e4%bf%ae%e6%ad%a3%e6%a1%88%ef%bc%88%e5%8d%81%e4%ba%8c/)
+Append: [系列新法对金融资管争议解决的影响：股权投资类纠纷（上）](https://www.chinalawinsight.com/2024/03/articles/uncategorized/%e7%b3%bb%e5%88%97%e6%96%b0%e6%b3%95%e5%af%b9%e9%87%91%e8%9e%8d%e8%b5%84%e7%ae%a1%e4%ba%89%e8%ae%ae%e8%a7%a3%e5%86%b3%e7%9a%84%e5%bd%b1%e5%93%8d%ef%bc%9a%e8%82%a1%e6%9d%83%e6%8a%95%e8%b5%84%e7%b1%bb/)
+Append: [LITIGATION IN CHINA: CHOICE OF FOREIGN COURTS NO LONGER REQUESTS ACTUAL CONNECTION WITH THE FOREIGN COUNTRY](https://www.chinalawinsight.com/2024/03/articles/uncategorized/litigation-in-china-choice-of-foreign-courts-no-longer-requests-actual-connection-with-the-foreign-country/)
+Append: [知难而进——跨境并购外商投资安全审查之附条件批准](https://www.chinalawinsight.com/2024/03/articles/uncategorized/%e7%9f%a5%e9%9a%be%e8%80%8c%e8%bf%9b-%e8%b7%a8%e5%a2%83%e5%b9%b6%e8%b4%ad%e5%a4%96%e5%95%86%e6%8a%95%e8%b5%84%e5%ae%89%e5%85%a8%e5%ae%a1%e6%9f%a5%e4%b9%8b%e9%99%84%e6%9d%a1%e4%bb%b6/)
+Append: [新加坡、中国香港及内地企业税收居民证明申请条件及最新变化](https://www.chinalawinsight.com/2024/03/articles/uncategorized/%e6%96%b0%e5%8a%a0%e5%9d%a1%e3%80%81%e4%b8%ad%e5%9b%bd%e9%a6%99%e6%b8%af%e5%8f%8a%e5%86%85%e5%9c%b0%e4%bc%81%e4%b8%9a%e7%a8%8e%e6%94%b6%e5%b1%85%e6%b0%91%e8%af%81%e6%98%8e%e7%94%b3%e8%af%b7%e6%9d%a1/)
+Append: [维好协议还好吗?](https://www.chinalawinsight.com/2024/03/articles/uncategorized/%e7%bb%b4%e5%a5%bd%e5%8d%8f%e8%ae%ae%e8%bf%98%e5%a5%bd%e5%90%97/)
+append_entries: 10
+Finish: 2024-03-20 10:16:48.038525
