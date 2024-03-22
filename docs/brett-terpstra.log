@@ -21055,3 +21055,15 @@ Existing_entries: 145
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-03-22 16:21:06.281942
+------------------------------------------------------
+Started: 2024-03-22 18:19:12.821552
+Existing_entries: 145
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The Flexibits Premium giveaway winners!](https://brett.trpstra.net/link/535/16628542/the-flexibits-premium-giveaway-winners)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Revisiting TagFiler and Vitag](https://brett.trpstra.net/link/535/16628513/revisiting-tagfiler-and-vitag)
+append_entries: 2
+Finish: 2024-03-22 18:19:19.674370
