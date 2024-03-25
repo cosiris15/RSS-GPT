@@ -21271,3 +21271,12 @@ Existing_entries: 147
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-03-25 14:15:03.992836
+------------------------------------------------------
+Started: 2024-03-25 16:20:36.596098
+Existing_entries: 147
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [EagleFiler giveaway!](https://brett.trpstra.net/link/535/16630730/eaglefiler-giveaway)
+append_entries: 1
+Finish: 2024-03-25 16:20:40.492521
