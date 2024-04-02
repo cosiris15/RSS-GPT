@@ -21875,3 +21875,12 @@ Existing_entries: 152
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-04-02 20:16:37.333023
+------------------------------------------------------
+Started: 2024-04-02 22:17:55.790422
+Existing_entries: 152
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [On using a CDN](https://brett.trpstra.net/link/535/16638813/on-using-a-cdn)
+append_entries: 1
+Finish: 2024-04-02 22:17:59.461295
