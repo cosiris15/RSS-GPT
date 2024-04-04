@@ -22016,3 +22016,12 @@ Existing_entries: 153
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-04-04 18:21:14.049747
+------------------------------------------------------
+Started: 2024-04-04 20:17:03.129769
+Existing_entries: 153
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [CurlyQ and automated JavaScript execution](https://brett.trpstra.net/link/535/16641718/curlyq-and-automated-javascript-execution)
+append_entries: 1
+Finish: 2024-04-04 20:17:07.624233
