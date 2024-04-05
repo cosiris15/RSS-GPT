@@ -7892,3 +7892,12 @@ Existing_entries: 68
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-04-05 06:21:08.216679
+------------------------------------------------------
+Started: 2024-04-05 08:23:33.180037
+Existing_entries: 68
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Healthcare and Life Sciences in Asia Pacific: 2024 sets to see rising investment and innovation](https://www.bakermckenzie.com/en/newsroom/2024/04/healthcare-and-life-sciences-in-ap-2024)
+append_entries: 1
+Finish: 2024-04-05 08:23:36.542533
