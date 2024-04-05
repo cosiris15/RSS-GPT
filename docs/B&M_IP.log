@@ -7913,3 +7913,12 @@ Existing_entries: 69
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-04-05 12:29:19.235645
+------------------------------------------------------
+Started: 2024-04-05 14:17:29.198495
+Existing_entries: 69
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie Advises Marel in €3.5 Billion Transaction Agreement with JBT](https://www.bakermckenzie.com/en/newsroom/2024/04/marel-transaction-agreement-with-jbt)
+append_entries: 1
+Finish: 2024-04-05 14:17:32.821004
