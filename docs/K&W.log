@@ -8122,3 +8122,16 @@ Existing_entries: 122
 Fetching from https://www.chinalawinsight.com/feed/
 append_entries: 0
 Finish: 2024-04-07 08:21:13.136564
+------------------------------------------------------
+Started: 2024-04-07 10:15:29.271914
+Existing_entries: 122
+Fetching from https://www.chinalawinsight.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [CHINA’S ANTITRUST AND COMPETITION YEAR 2023 IN REVIEW](https://www.chinalawinsight.com/2024/04/articles/uncategorized/chinas-antitrust-and-competition-year-2023-in-review/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [FAQS FOR CHINA’S NEW RULES ON CROSS-BORDER DATA TRANSFER](https://www.chinalawinsight.com/2024/04/articles/uncategorized/faqs-for-chinas-new-rules-on-cross-border-data-transfer/)
+Append: [KEY POINTS TO CONSIDER WHEN CARRYING OUT AVIATION BUSINESS IN CHINA IN THE NEW ERA](https://www.chinalawinsight.com/2024/04/articles/uncategorized/key-points-to-consider-when-carrying-out-aviation-business-in-china-in-the-new-era/)
+append_entries: 3
+Finish: 2024-04-07 10:15:35.144616
