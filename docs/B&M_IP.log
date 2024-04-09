@@ -8204,3 +8204,12 @@ Existing_entries: 70
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-04-09 12:30:55.258406
+------------------------------------------------------
+Started: 2024-04-09 14:15:15.095856
+Existing_entries: 70
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie advises Idorsia and Viatris on entering into significant global research and development collaboration agreements](https://www.bakermckenzie.com/en/newsroom/2024/04/idorsia-and-viatris-significant-global-research-collaboration)
+append_entries: 1
+Finish: 2024-04-09 14:15:18.678991
