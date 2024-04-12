@@ -8519,3 +8519,10 @@ Fetching from https://www.chinalawinsight.com/feed/
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/K&W
+------------------------------------------------------
+Started: 2024-04-12 06:21:37.176405
+Existing_entries: 154
+Fetching from https://www.chinalawinsight.com/feed/
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/K&W
