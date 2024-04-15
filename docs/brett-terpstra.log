@@ -22769,3 +22769,12 @@ Existing_entries: 158
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-04-15 12:29:49.102243
+------------------------------------------------------
+Started: 2024-04-15 14:14:44.905656
+Existing_entries: 158
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Unite 5 giveaway!](https://brett.trpstra.net/link/535/16650585/unite-5-giveaway)
+append_entries: 1
+Finish: 2024-04-15 14:14:49.229601
