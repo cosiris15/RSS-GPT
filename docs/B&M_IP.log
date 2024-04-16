@@ -8666,3 +8666,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie advises Sino Biopharmaceutical on its partnership with Boehringer Ingelheim to bring innovative cancer therapies to China](https://www.bakermckenzie.com/en/newsroom/2024/04/sino-biopharm-partners-with-boehringer-ingelheim)
 append_entries: 1
 Finish: 2024-04-16 08:20:28.588513
+------------------------------------------------------
+Started: 2024-04-16 10:17:24.695960
+Existing_entries: 72
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-04-16 10:17:25.385628
