@@ -23291,3 +23291,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Bear giveaway!](https://brett.trpstra.net/link/535/16656898/bear-giveaway)
 append_entries: 1
 Finish: 2024-04-22 14:16:17.408128
+------------------------------------------------------
+Started: 2024-04-22 16:20:45.645067
+Existing_entries: 162
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Web Excursions for April 22, 2024](https://brett.trpstra.net/link/535/16657056/web-excursions-for-april-22-2024)
+append_entries: 1
+Finish: 2024-04-22 16:20:49.255242
