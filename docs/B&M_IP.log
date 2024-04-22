@@ -9104,3 +9104,12 @@ Existing_entries: 72
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-04-22 10:19:25.822909
+------------------------------------------------------
+Started: 2024-04-22 12:32:16.481293
+Existing_entries: 72
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie advises Arbonia on the sale of its climate division for EUR 760 million to Midea Group](https://www.bakermckenzie.com/en/newsroom/2024/04/arbonia-sale-of-climate-division-to-midea-group)
+append_entries: 1
+Finish: 2024-04-22 12:32:20.089077
