@@ -9113,3 +9113,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie advises Arbonia on the sale of its climate division for EUR 760 million to Midea Group](https://www.bakermckenzie.com/en/newsroom/2024/04/arbonia-sale-of-climate-division-to-midea-group)
 append_entries: 1
 Finish: 2024-04-22 12:32:20.089077
+------------------------------------------------------
+Started: 2024-04-22 14:16:17.798144
+Existing_entries: 73
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-04-22 14:16:18.418449
