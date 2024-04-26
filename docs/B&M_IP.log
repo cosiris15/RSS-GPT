@@ -9377,3 +9377,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [360° IP Solution](https://www.bakermckenzie.com/en/insight/publications/resources/360-ip-solution)
 append_entries: 1
 Finish: 2024-04-26 02:25:42.899362
+------------------------------------------------------
+Started: 2024-04-26 04:19:23.044116
+Existing_entries: 75
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-04-26 04:19:23.534255
