@@ -9623,3 +9623,12 @@ Existing_entries: 75
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-04-29 12:32:20.125317
+------------------------------------------------------
+Started: 2024-04-29 14:16:45.765302
+Existing_entries: 75
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Global Plant Variety Rights Guide](https://www.bakermckenzie.com/en/insight/publications/guides/global-plant-variety-rights-guide)
+append_entries: 1
+Finish: 2024-04-29 14:16:49.306038
