@@ -24047,3 +24047,12 @@ Existing_entries: 168
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-05-02 20:18:43.410388
+------------------------------------------------------
+Started: 2024-05-02 22:17:06.338111
+Existing_entries: 168
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [WriteMapper - writing with mind maps](https://brett.trpstra.net/link/535/16671800/writemapper-writing-with-mind-maps)
+append_entries: 1
+Finish: 2024-05-02 22:17:10.031540
