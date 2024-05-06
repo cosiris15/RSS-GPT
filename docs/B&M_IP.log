@@ -10142,3 +10142,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie Expands IP Litigation and Trade Disputes Practices with the Addition of Seasoned Trade Remedies Lawyer Justin Becker](https://www.bakermckenzie.com/en/newsroom/2024/05/justin-becker-joins-ip-litigation-and-trades-disputes-practices)
 append_entries: 1
 Finish: 2024-05-06 14:16:51.050035
+------------------------------------------------------
+Started: 2024-05-06 16:23:56.748057
+Existing_entries: 78
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-05-06 16:23:57.456468
