@@ -10133,3 +10133,12 @@ Existing_entries: 77
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-05-06 12:32:33.360198
+------------------------------------------------------
+Started: 2024-05-06 14:16:47.651353
+Existing_entries: 77
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie Expands IP Litigation and Trade Disputes Practices with the Addition of Seasoned Trade Remedies Lawyer Justin Becker](https://www.bakermckenzie.com/en/newsroom/2024/05/justin-becker-joins-ip-litigation-and-trades-disputes-practices)
+append_entries: 1
+Finish: 2024-05-06 14:16:51.050035
