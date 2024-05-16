@@ -25064,3 +25064,12 @@ Existing_entries: 173
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-05-16 18:20:55.758235
+------------------------------------------------------
+Started: 2024-05-16 20:17:45.140708
+Existing_entries: 173
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Marked 2 and Obsidian](https://brett.trpstra.net/link/535/16684070/marked-2-and-obsidian)
+append_entries: 1
+Finish: 2024-05-16 20:17:49.007720
