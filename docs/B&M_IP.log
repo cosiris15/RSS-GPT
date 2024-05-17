@@ -10946,3 +10946,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Danielle Benecke recognized among WIPR Diversity's Top 100 in 2024](https://www.bakermckenzie.com/en/newsroom/2024/05/wipr-diversity-top-100)
 append_entries: 1
 Finish: 2024-05-17 16:20:54.250174
+------------------------------------------------------
+Started: 2024-05-17 18:23:25.729079
+Existing_entries: 80
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-05-17 18:23:26.280078
