@@ -11327,3 +11327,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie Partner Cynthia J Cole Recognized on Daily Journal's 2024 Top Intellectual Property Lawyers List](https://www.bakermckenzie.com/en/newsroom/2024/05/cynthia-cole-daily-journal-top-ip-lawyers-list)
 append_entries: 1
 Finish: 2024-05-22 22:16:10.906541
+------------------------------------------------------
+Started: 2024-05-23 01:15:14.205591
+Existing_entries: 81
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-05-23 01:15:14.769134
