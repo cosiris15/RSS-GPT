@@ -25649,3 +25649,15 @@ Existing_entries: 176
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-05-24 18:22:55.721555
+------------------------------------------------------
+Started: 2024-05-24 20:18:27.853676
+Existing_entries: 176
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Conductor filters simplify basic operations](https://brett.trpstra.net/link/535/16693021/conductor-filters-simplify-basic-operations)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The OmniGraffle giveaway winners!](https://brett.trpstra.net/link/535/16692996/the-omnigraffle-giveaway-winners)
+append_entries: 2
+Finish: 2024-05-24 20:18:34.986904
