@@ -11456,3 +11456,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Africa Day: Reasons to celebrate the continent’s many opportunities](https://www.bakermckenzie.com/en/newsroom/2024/05/africa-day-reasons-to-celebrate)
 append_entries: 1
 Finish: 2024-05-24 16:20:23.647358
+------------------------------------------------------
+Started: 2024-05-24 18:22:56.173667
+Existing_entries: 82
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-05-24 18:22:56.743296
