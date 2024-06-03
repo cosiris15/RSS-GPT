@@ -26372,3 +26372,12 @@ Existing_entries: 183
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-06-03 12:34:36.989185
+------------------------------------------------------
+Started: 2024-06-03 14:17:35.353405
+Existing_entries: 183
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Retrobatch Pro giveaway!](https://brett.trpstra.net/link/535/16701743/retrobatch-pro-giveaway)
+append_entries: 1
+Finish: 2024-06-03 14:17:39.462371
