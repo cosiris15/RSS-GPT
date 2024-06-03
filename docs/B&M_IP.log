@@ -12146,3 +12146,12 @@ Existing_entries: 82
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-06-03 06:25:00.736212
+------------------------------------------------------
+Started: 2024-06-03 08:23:17.148692
+Existing_entries: 82
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Asia IP speaks to Manh Hung Tran about Managing IP in a conflict zone](https://www.bakermckenzie.com/en/newsroom/2024/06/manh-hung-tran-on-safeguarding-ip-in-conflict-zones)
+append_entries: 1
+Finish: 2024-06-03 08:23:20.919550
