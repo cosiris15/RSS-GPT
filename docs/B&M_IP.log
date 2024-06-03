@@ -12155,3 +12155,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Asia IP speaks to Manh Hung Tran about Managing IP in a conflict zone](https://www.bakermckenzie.com/en/newsroom/2024/06/manh-hung-tran-on-safeguarding-ip-in-conflict-zones)
 append_entries: 1
 Finish: 2024-06-03 08:23:20.919550
+------------------------------------------------------
+Started: 2024-06-03 10:22:03.622787
+Existing_entries: 83
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-06-03 10:22:04.089710
