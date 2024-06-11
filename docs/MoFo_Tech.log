@@ -12673,3 +12673,12 @@ Existing_entries: 33
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2024-06-11 18:24:59.220973
+------------------------------------------------------
+Started: 2024-06-11 20:18:37.403787
+Existing_entries: 33
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [U.S. Senate AI Working Group Publishes AI Policy Roadmap](https://mofotech.mofo.com//topics/us-senate-ai-working-group-publishes-ai-policy-roadmap)
+append_entries: 1
+Finish: 2024-06-11 20:18:40.725300
