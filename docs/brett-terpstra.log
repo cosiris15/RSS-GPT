@@ -27197,3 +27197,15 @@ Existing_entries: 188
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-06-14 18:24:31.115313
+------------------------------------------------------
+Started: 2024-06-14 20:18:36.336756
+Existing_entries: 188
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The Audio Hijack giveaway winners!](https://brett.trpstra.net/link/535/16714716/the-audio-hijack-giveaway-winners)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [A Markdown Lorem Ipsum API](https://brett.trpstra.net/link/535/16714717/a-markdown-lorem-ipsum-api)
+append_entries: 2
+Finish: 2024-06-14 20:18:43.203220
