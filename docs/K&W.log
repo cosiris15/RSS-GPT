@@ -13056,3 +13056,23 @@ Existing_entries: 184
 Fetching from https://www.chinalawinsight.com/feed/
 append_entries: 0
 Finish: 2024-06-14 02:34:08.999189
+------------------------------------------------------
+Started: 2024-06-14 04:21:19.481837
+Existing_entries: 184
+Fetching from https://www.chinalawinsight.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [数据驱动的生态系统竞争——反垄断的演变与挑战](https://www.chinalawinsight.com/2024/06/articles/uncategorized/%e6%95%b0%e6%8d%ae%e9%a9%b1%e5%8a%a8%e7%9a%84%e7%94%9f%e6%80%81%e7%b3%bb%e7%bb%9f%e7%ab%9e%e4%ba%89-%e5%8f%8d%e5%9e%84%e6%96%ad%e7%9a%84%e6%bc%94%e5%8f%98%e4%b8%8e%e6%8c%91%e6%88%98/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [莫惜金缕衣，须惜少年时——关于认定未成年人网络保护大型平台（“守门人”）的思考和建议](https://www.chinalawinsight.com/2024/06/articles/uncategorized/%e8%8e%ab%e6%83%9c%e9%87%91%e7%bc%95%e8%a1%a3%ef%bc%8c%e9%a1%bb%e6%83%9c%e5%b0%91%e5%b9%b4%e6%97%b6-%e5%85%b3%e4%ba%8e%e8%ae%a4%e5%ae%9a%e6%9c%aa%e6%88%90%e5%b9%b4%e4%ba%ba%e7%bd%91/)
+Append: [容量购电协议政策升级，俄罗斯远东地区再生能源IPP项目迎来新契机？](https://www.chinalawinsight.com/2024/06/articles/uncategorized/%e5%ae%b9%e9%87%8f%e8%b4%ad%e7%94%b5%e5%8d%8f%e8%ae%ae%e6%94%bf%e7%ad%96%e5%8d%87%e7%ba%a7%ef%bc%8c%e4%bf%84%e7%bd%97%e6%96%af%e8%bf%9c%e4%b8%9c%e5%9c%b0%e5%8c%ba%e5%86%8d%e7%94%9f%e8%83%bd%e6%ba%90ip/)
+Append: [日拱一卒，不期而至——英国《自动驾驶汽车法2024》简评](https://www.chinalawinsight.com/2024/06/articles/uncategorized/%e6%97%a5%e6%8b%b1%e4%b8%80%e5%8d%92%ef%bc%8c%e4%b8%8d%e6%9c%9f%e8%80%8c%e8%87%b3-%e8%8b%b1%e5%9b%bd%e3%80%8a%e8%87%aa%e5%8a%a8%e9%a9%be%e9%a9%b6%e6%b1%bd%e8%bd%a6%e6%b3%952024/)
+Append: [横琴粤澳深度合作区重点支持发展的四大核心产业及扶持政策简析](https://www.chinalawinsight.com/2024/06/articles/uncategorized/%e6%a8%aa%e7%90%b4%e7%b2%a4%e6%be%b3%e6%b7%b1%e5%ba%a6%e5%90%88%e4%bd%9c%e5%8c%ba%e9%87%8d%e7%82%b9%e6%94%af%e6%8c%81%e5%8f%91%e5%b1%95%e7%9a%84%e5%9b%9b%e5%a4%a7%e6%a0%b8%e5%bf%83%e4%ba%a7%e4%b8%9a/)
+Append: [新法快评：欧盟《净零工业法案》对中国企业的影响](https://www.chinalawinsight.com/2024/06/articles/uncategorized/%e6%96%b0%e6%b3%95%e5%bf%ab%e8%af%84%ef%bc%9a%e6%ac%a7%e7%9b%9f%e3%80%8a%e5%87%80%e9%9b%b6%e5%b7%a5%e4%b8%9a%e6%b3%95%e6%a1%88%e3%80%8b%e5%af%b9%e4%b8%ad%e5%9b%bd%e4%bc%81%e4%b8%9a%e7%9a%84%e5%bd%b1/)
+Append: [SECURING AI PATENTS IN CHINA: THE REGULATORY FRAMEWORK](https://www.chinalawinsight.com/2024/06/articles/uncategorized/securing-ai-patents-in-china-the-regulatory-framework/)
+Append: [新法新打法之公司控制权争夺：股东会与董事会的权力格局之变](https://www.chinalawinsight.com/2024/06/articles/uncategorized/%e6%96%b0%e6%b3%95%e6%96%b0%e6%89%93%e6%b3%95%e4%b9%8b%e5%85%ac%e5%8f%b8%e6%8e%a7%e5%88%b6%e6%9d%83%e4%ba%89%e5%a4%ba%ef%bc%9a%e8%82%a1%e4%b8%9c%e4%bc%9a%e4%b8%8e%e8%91%a3%e4%ba%8b%e4%bc%9a%e7%9a%84/)
+Append: [莫听穿林打叶，何妨吟啸徐行丨新公司法催缴失权实务解读：最终篇——从争议解决视角探讨失权的救济路径](https://www.chinalawinsight.com/2024/06/articles/uncategorized/%e8%8e%ab%e5%90%ac%e7%a9%bf%e6%9e%97%e6%89%93%e5%8f%b6%ef%bc%8c%e4%bd%95%e5%a6%a8%e5%90%9f%e5%95%b8%e5%be%90%e8%a1%8c%e4%b8%a8%e6%96%b0%e5%85%ac%e5%8f%b8%e6%b3%95%e5%82%ac%e7%bc%b4%e5%a4%b1%e6%9d%83-3/)
+Append: [从事军工业务企业A股IPO关注要点梳理](https://www.chinalawinsight.com/2024/06/articles/uncategorized/%e4%bb%8e%e4%ba%8b%e5%86%9b%e5%b7%a5%e4%b8%9a%e5%8a%a1%e4%bc%81%e4%b8%9aa%e8%82%a1ipo%e5%85%b3%e6%b3%a8%e8%a6%81%e7%82%b9%e6%a2%b3%e7%90%86/)
+append_entries: 10
+Finish: 2024-06-14 04:21:25.830638
