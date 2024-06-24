@@ -13667,3 +13667,12 @@ Existing_entries: 83
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-06-24 08:23:10.156286
+------------------------------------------------------
+Started: 2024-06-24 10:20:07.724908
+Existing_entries: 83
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie's IP Practice Group in Ukraine is listed in the top bands of the 2024 edition of IAM Patent 1000: The World's Leading Patent Professionals](https://www.bakermckenzie.com/en/newsroom/2024/06/worlds-leading-patent-professionals)
+append_entries: 1
+Finish: 2024-06-24 10:20:11.108023
