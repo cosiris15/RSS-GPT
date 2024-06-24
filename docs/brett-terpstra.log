@@ -27917,3 +27917,12 @@ Existing_entries: 194
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-06-24 12:35:00.102519
+------------------------------------------------------
+Started: 2024-06-24 14:17:05.984140
+Existing_entries: 194
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [OmniOutliner giveaway!](https://brett.trpstra.net/link/535/16723486/omnioutliner-giveaway)
+append_entries: 1
+Finish: 2024-06-24 14:17:09.862911

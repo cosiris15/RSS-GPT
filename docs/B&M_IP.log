@@ -13685,3 +13685,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie advises Readly on the sale of its entire holding in Toutabo/ePresse to Cafeyn](https://www.bakermckenzie.com/en/newsroom/2024/06/readly-sale-of-toutabo-epresse-to-cafeyn)
 append_entries: 1
 Finish: 2024-06-24 12:35:04.261594
+------------------------------------------------------
+Started: 2024-06-24 14:17:10.140395
+Existing_entries: 85
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-06-24 14:17:10.602678
