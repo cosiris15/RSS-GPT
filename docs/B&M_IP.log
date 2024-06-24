@@ -13676,3 +13676,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie's IP Practice Group in Ukraine is listed in the top bands of the 2024 edition of IAM Patent 1000: The World's Leading Patent Professionals](https://www.bakermckenzie.com/en/newsroom/2024/06/worlds-leading-patent-professionals)
 append_entries: 1
 Finish: 2024-06-24 10:20:11.108023
+------------------------------------------------------
+Started: 2024-06-24 12:35:00.525326
+Existing_entries: 84
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie advises Readly on the sale of its entire holding in Toutabo/ePresse to Cafeyn](https://www.bakermckenzie.com/en/newsroom/2024/06/readly-sale-of-toutabo-epresse-to-cafeyn)
+append_entries: 1
+Finish: 2024-06-24 12:35:04.261594
