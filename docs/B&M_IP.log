@@ -13817,3 +13817,12 @@ Existing_entries: 85
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-06-26 08:23:00.069363
+------------------------------------------------------
+Started: 2024-06-26 10:18:33.671997
+Existing_entries: 85
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie Announces 2024 Partner Promotions](https://www.bakermckenzie.com/en/newsroom/2024/06/baker-mckenzie-announces-2024-partner-promotions)
+append_entries: 1
+Finish: 2024-06-26 10:18:37.402901
