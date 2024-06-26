@@ -13826,3 +13826,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie Announces 2024 Partner Promotions](https://www.bakermckenzie.com/en/newsroom/2024/06/baker-mckenzie-announces-2024-partner-promotions)
 append_entries: 1
 Finish: 2024-06-26 10:18:37.402901
+------------------------------------------------------
+Started: 2024-06-26 12:35:59.586897
+Existing_entries: 86
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-06-26 12:36:01.227405
