@@ -14165,3 +14165,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [8 new promotions at Baker McKenzie Paris](https://www.bakermckenzie.com/en/newsroom/2024/06/bm-paris-promotions)
 append_entries: 1
 Finish: 2024-07-01 02:39:38.691911
+------------------------------------------------------
+Started: 2024-07-01 04:21:28.226817
+Existing_entries: 87
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-07-01 04:21:28.727293
