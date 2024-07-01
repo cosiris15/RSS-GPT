@@ -14156,3 +14156,12 @@ Existing_entries: 86
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-07-01 01:27:15.488229
+------------------------------------------------------
+Started: 2024-07-01 02:39:34.510692
+Existing_entries: 86
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [8 new promotions at Baker McKenzie Paris](https://www.bakermckenzie.com/en/newsroom/2024/06/bm-paris-promotions)
+append_entries: 1
+Finish: 2024-07-01 02:39:38.691911
