@@ -14378,3 +14378,23 @@ Existing_entries: 194
 Fetching from https://www.chinalawinsight.com/feed/
 append_entries: 0
 Finish: 2024-07-02 06:26:50.151272
+------------------------------------------------------
+Started: 2024-07-02 08:22:47.869896
+Existing_entries: 194
+Fetching from https://www.chinalawinsight.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [迫于眉睫之内，成于久久为功：比特币司法执行的困境与思考](https://www.chinalawinsight.com/2024/07/articles/uncategorized/%e8%bf%ab%e4%ba%8e%e7%9c%89%e7%9d%ab%e4%b9%8b%e5%86%85%ef%bc%8c%e6%88%90%e4%ba%8e%e4%b9%85%e4%b9%85%e4%b8%ba%e5%8a%9f%ef%bc%9a%e6%af%94%e7%89%b9%e5%b8%81%e5%8f%b8%e6%b3%95%e6%89%a7%e8%a1%8c%e7%9a%84/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [日本养老设施简介](https://www.chinalawinsight.com/2024/07/articles/uncategorized/%e6%97%a5%e6%9c%ac%e5%85%bb%e8%80%81%e8%ae%be%e6%96%bd%e7%ae%80%e4%bb%8b/)
+Append: [美国新一轮涉俄出口管制和制裁措施，中国企业应审慎对待](https://www.chinalawinsight.com/2024/07/articles/uncategorized/%e7%be%8e%e5%9b%bd%e6%96%b0%e4%b8%80%e8%bd%ae%e6%b6%89%e4%bf%84%e5%87%ba%e5%8f%a3%e7%ae%a1%e5%88%b6%e5%92%8c%e5%88%b6%e8%a3%81%e6%8e%aa%e6%96%bd%ef%bc%8c%e4%b8%ad%e5%9b%bd%e4%bc%81%e4%b8%9a%e5%ba%94/)
+Append: [税看新法，旁见侧出丨新《公司法》下的税务影响——减资不简单](https://www.chinalawinsight.com/2024/07/articles/uncategorized/%e7%a8%8e%e7%9c%8b%e6%96%b0%e6%b3%95%ef%bc%8c%e6%97%81%e8%a7%81%e4%be%a7%e5%87%ba%e4%b8%a8%e6%96%b0%e3%80%8a%e5%85%ac%e5%8f%b8%e6%b3%95%e3%80%8b%e4%b8%8b%e7%9a%84%e7%a8%8e%e5%8a%a1%e5%bd%b1%e5%93%8d-2/)
+Append: [只此青绿丨“碳绿双证”交易背后的中国税务问题探讨](https://www.chinalawinsight.com/2024/07/articles/uncategorized/%e5%8f%aa%e6%ad%a4%e9%9d%92%e7%bb%bf%e4%b8%a8%e7%a2%b3%e7%bb%bf%e5%8f%8c%e8%af%81%e4%ba%a4%e6%98%93%e8%83%8c%e5%90%8e%e7%9a%84%e4%b8%ad%e5%9b%bd%e7%a8%8e%e5%8a%a1%e9%97%ae%e9%a2%98/)
+Append: [TMT投资实践：开曼、BVI、香港离岸公司优劣势比较](https://www.chinalawinsight.com/2024/07/articles/uncategorized/tmt%e6%8a%95%e8%b5%84%e5%ae%9e%e8%b7%b5%ef%bc%9a%e5%bc%80%e6%9b%bc%e3%80%81bvi%e3%80%81%e9%a6%99%e6%b8%af%e7%a6%bb%e5%b2%b8%e5%85%ac%e5%8f%b8%e4%bc%98%e5%8a%a3%e5%8a%bf%e6%af%94%e8%be%83/)
+Append: [“30年”“5亿消费税”和“炒美股要报税”——近期税务征管热点之简评及建议](https://www.chinalawinsight.com/2024/07/articles/uncategorized/30%e5%b9%b45%e4%ba%bf%e6%b6%88%e8%b4%b9%e7%a8%8e%e5%92%8c%e7%82%92%e7%be%8e%e8%82%a1%e8%a6%81%e6%8a%a5%e7%a8%8e-%e8%bf%91/)
+Append: [企业出海——海外数据合规概览（墨西哥篇）](https://www.chinalawinsight.com/2024/07/articles/uncategorized/%e4%bc%81%e4%b8%9a%e5%87%ba%e6%b5%b7-%e6%b5%b7%e5%a4%96%e6%95%b0%e6%8d%ae%e5%90%88%e8%a7%84%e6%a6%82%e8%a7%88%ef%bc%88%e5%a2%a8%e8%a5%bf%e5%93%a5%e7%af%87%ef%bc%89/)
+Append: [新公司法专栏（八）：深度重塑的股东出资加速到期制度](https://www.chinalawinsight.com/2024/07/articles/uncategorized/%e6%96%b0%e5%85%ac%e5%8f%b8%e6%b3%95%e4%b8%93%e6%a0%8f%ef%bc%88%e5%85%ab%ef%bc%89%ef%bc%9a%e6%b7%b1%e5%ba%a6%e9%87%8d%e5%a1%91%e7%9a%84%e8%82%a1%e4%b8%9c%e5%87%ba%e8%b5%84%e5%8a%a0%e9%80%9f%e5%88%b0/)
+Append: [进口固体废物的法律风险及防范——以行政处罚案例和司法判例为视角](https://www.chinalawinsight.com/2024/07/articles/uncategorized/%e8%bf%9b%e5%8f%a3%e5%9b%ba%e4%bd%93%e5%ba%9f%e7%89%a9%e7%9a%84%e6%b3%95%e5%be%8b%e9%a3%8e%e9%99%a9%e5%8f%8a%e9%98%b2%e8%8c%83-%e4%bb%a5%e8%a1%8c%e6%94%bf%e5%a4%84%e7%bd%9a%e6%a1%88/)
+append_entries: 10
+Finish: 2024-07-02 08:22:54.184131
