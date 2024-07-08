@@ -14690,3 +14690,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie advising Carlsberg on its £3.3 billion recommended cash acquisition of Britvic](https://www.bakermckenzie.com/en/newsroom/2024/07/carlsberg-cash-acquisition-of-britvic)
 append_entries: 1
 Finish: 2024-07-08 08:23:40.259957
+------------------------------------------------------
+Started: 2024-07-08 10:20:02.924995
+Existing_entries: 88
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-07-08 10:20:03.575758
