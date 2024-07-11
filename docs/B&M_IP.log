@@ -14900,3 +14900,12 @@ Existing_entries: 88
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-07-11 06:25:22.257091
+------------------------------------------------------
+Started: 2024-07-11 08:22:49.274967
+Existing_entries: 88
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie advises CureVac on restructuring collaboration with GSK into a new licensing agreement](https://www.bakermckenzie.com/en/newsroom/2024/07/curevac-restructuring-collaboration-with-gsk)
+append_entries: 1
+Finish: 2024-07-11 08:22:52.561134
