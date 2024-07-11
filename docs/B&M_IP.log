@@ -14930,3 +14930,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie advises Mitsubishi Tanabe Pharma on the sale of the European Argatroban business to Ethypharm](https://www.bakermckenzie.com/en/newsroom/2024/07/mitsubishi-tanabe-pharma-sale-of-argatroban)
 append_entries: 1
 Finish: 2024-07-11 14:16:32.277567
+------------------------------------------------------
+Started: 2024-07-11 16:22:27.733746
+Existing_entries: 90
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-07-11 16:22:28.478363
