@@ -29313,3 +29313,12 @@ Existing_entries: 200
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-07-13 14:15:52.898998
+------------------------------------------------------
+Started: 2024-07-13 16:20:28.548407
+Existing_entries: 200
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The Dropzone giveaway winners!](https://brett.trpstra.net/link/535/16742551/the-dropzone-giveaway-winners)
+append_entries: 1
+Finish: 2024-07-13 16:20:33.022611
