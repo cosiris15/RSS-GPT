@@ -15362,3 +15362,12 @@ Existing_entries: 90
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-07-17 14:17:51.173782
+------------------------------------------------------
+Started: 2024-07-17 16:23:36.681521
+Existing_entries: 90
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie advises the shareholders of APEIRON Biologics AG on the sale of their shares to an American investor](https://www.bakermckenzie.com/en/newsroom/2024/07/baker-mckenzie-advises-apeiron)
+append_entries: 1
+Finish: 2024-07-17 16:23:40.689173
