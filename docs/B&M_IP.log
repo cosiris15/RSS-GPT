@@ -15371,3 +15371,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie advises the shareholders of APEIRON Biologics AG on the sale of their shares to an American investor](https://www.bakermckenzie.com/en/newsroom/2024/07/baker-mckenzie-advises-apeiron)
 append_entries: 1
 Finish: 2024-07-17 16:23:40.689173
+------------------------------------------------------
+Started: 2024-07-17 18:24:54.475579
+Existing_entries: 91
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-07-17 18:24:54.894879
