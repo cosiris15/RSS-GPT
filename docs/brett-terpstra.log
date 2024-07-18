@@ -29685,3 +29685,12 @@ Existing_entries: 202
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-07-18 16:22:47.064826
+------------------------------------------------------
+Started: 2024-07-18 18:25:30.741212
+Existing_entries: 202
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Marked 2.6.39 with Streaming Preview fixes](https://brett.trpstra.net/link/535/16747444/marked-2-dot-6-39-with-streaming-preview-fixes)
+append_entries: 1
+Finish: 2024-07-18 18:25:34.901751
