@@ -29961,3 +29961,10 @@ Existing_entries: 204
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-07-22 12:36:20.801152
+------------------------------------------------------
+Started: 2024-07-22 14:17:53.482930
+Existing_entries: 204
+Fetching from https://brett.trpstra.net/brettterpstra
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/brett-terpstra
