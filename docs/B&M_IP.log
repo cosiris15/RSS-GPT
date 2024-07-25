@@ -15920,3 +15920,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie advises KD Pharma Group on the acquisition of the marine lipids business of dsm-firmenich in exchange for a minority stake in the company](https://www.bakermckenzie.com/en/newsroom/2024/07/kd-pharma-group-acquires-dsm-firmenich-marine-lipids-biz)
 append_entries: 1
 Finish: 2024-07-25 08:24:04.243288
+------------------------------------------------------
+Started: 2024-07-25 10:19:44.298370
+Existing_entries: 92
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-07-25 10:19:44.930614
