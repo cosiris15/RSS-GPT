@@ -15926,3 +15926,15 @@ Existing_entries: 92
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-07-25 10:19:44.930614
+------------------------------------------------------
+Started: 2024-07-25 12:35:06.831608
+Existing_entries: 92
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie Austria advises the Kudelski Group on the sale of SKIDATA](https://www.bakermckenzie.com/en/newsroom/2024/07/kudelski-group-sale-of-skidata)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Digital Transformation Risk Radar for Financial Institutions](https://www.bakermckenzie.com/en/insight/publications/resources/digital-transformation-risk-radar-for-financial-institutions)
+append_entries: 2
+Finish: 2024-07-25 12:35:13.926961
