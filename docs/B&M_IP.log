@@ -16013,3 +16013,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie advises GNMI on agreement to acquire Merck's surface solutions business](https://www.bakermckenzie.com/en/newsroom/2024/07/baker-mckenzie-advises-gnmi-on-merck)
 append_entries: 1
 Finish: 2024-07-26 12:34:22.072520
+------------------------------------------------------
+Started: 2024-07-26 14:16:42.462551
+Existing_entries: 95
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-07-26 14:16:43.321042
