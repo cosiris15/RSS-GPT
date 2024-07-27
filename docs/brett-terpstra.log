@@ -30349,3 +30349,12 @@ Existing_entries: 205
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-07-27 20:18:03.320753
+------------------------------------------------------
+Started: 2024-07-27 22:16:17.628147
+Existing_entries: 205
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The Backblaze giveaway winner!](https://brett.trpstra.net/link/535/16754778/the-backblaze-giveaway-winner)
+append_entries: 1
+Finish: 2024-07-27 22:16:22.253189
