@@ -30709,3 +30709,12 @@ Existing_entries: 207
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-08-01 18:24:43.643788
+------------------------------------------------------
+Started: 2024-08-01 20:19:59.551206
+Existing_entries: 207
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Easily save and restore all of your gem executables](https://brett.trpstra.net/link/535/16759288/easily-save-and-restore-gem-executables)
+append_entries: 1
+Finish: 2024-08-01 20:20:03.218624
