@@ -16574,3 +16574,10 @@ Fetching from https://www.chinalawinsight.com/feed/
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/K&W
+------------------------------------------------------
+Started: 2024-08-01 08:23:41.204973
+Existing_entries: 214
+Fetching from https://www.chinalawinsight.com/feed/
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/K&W
