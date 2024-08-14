@@ -31666,3 +31666,12 @@ Existing_entries: 216
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-08-14 16:26:05.961176
+------------------------------------------------------
+Started: 2024-08-14 18:25:16.180268
+Existing_entries: 216
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Relaunched T-shirts for The Lab and Rock Scissors](https://brett.trpstra.net/link/535/16771149/relaunched-t-shirts-for-the-lab-and-rock-scissors)
+append_entries: 1
+Finish: 2024-08-14 18:25:20.219552
