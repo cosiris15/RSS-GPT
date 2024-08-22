@@ -17957,3 +17957,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [TMT Talk: The Global Technology Sector Podcast](https://www.bakermckenzie.com/en/insight/publications/resources/tmt-talk)
 append_entries: 1
 Finish: 2024-08-22 10:21:08.809902
+------------------------------------------------------
+Started: 2024-08-22 12:36:34.450864
+Existing_entries: 97
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-08-22 12:36:34.944667
