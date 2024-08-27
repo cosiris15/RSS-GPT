@@ -18311,3 +18311,12 @@ Existing_entries: 97
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-08-27 08:24:51.361488
+------------------------------------------------------
+Started: 2024-08-27 10:19:19.450933
+Existing_entries: 97
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie Secures Top Rankings in the 2024 Edition of "Ukrainian Law Firms: A Handbook for Foreign Clients"](https://www.bakermckenzie.com/en/newsroom/2024/08/ukrainian-law-firms-a-handbook-for-foreign-clients)
+append_entries: 1
+Finish: 2024-08-27 10:19:23.218744
