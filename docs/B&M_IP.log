@@ -18320,3 +18320,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie Secures Top Rankings in the 2024 Edition of "Ukrainian Law Firms: A Handbook for Foreign Clients"](https://www.bakermckenzie.com/en/newsroom/2024/08/ukrainian-law-firms-a-handbook-for-foreign-clients)
 append_entries: 1
 Finish: 2024-08-27 10:19:23.218744
+------------------------------------------------------
+Started: 2024-08-27 12:36:42.712087
+Existing_entries: 98
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-08-27 12:36:43.317255
