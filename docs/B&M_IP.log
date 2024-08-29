@@ -18482,3 +18482,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie advises VINCI Energies on the acquisition of the German Fernao Group](https://www.bakermckenzie.com/en/newsroom/2024/08/vinci-energies-acquisition-of-german-fernao-group)
 append_entries: 1
 Finish: 2024-08-29 14:19:22.247721
+------------------------------------------------------
+Started: 2024-08-29 16:24:17.134975
+Existing_entries: 100
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-08-29 16:24:17.564894
