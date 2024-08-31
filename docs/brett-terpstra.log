@@ -32949,3 +32949,12 @@ Existing_entries: 261
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-08-31 16:23:34.413460
+------------------------------------------------------
+Started: 2024-08-31 18:24:03.434773
+Existing_entries: 261
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The Obsidian Sync giveaway winners!](https://brett.trpstra.net/link/535/16789658/the-obsidian-sync-giveaway-winners)
+append_entries: 1
+Finish: 2024-08-31 18:24:07.110241
