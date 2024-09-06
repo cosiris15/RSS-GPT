@@ -19082,3 +19082,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Directorship Magazine Online Features Article by Justine Phillips, Zonghui Wei, and Ella Noll](https://www.bakermckenzie.com/en/newsroom/2024/09/directorship-magazine-online)
 append_entries: 1
 Finish: 2024-09-06 20:20:32.274954
+------------------------------------------------------
+Started: 2024-09-06 22:17:53.403200
+Existing_entries: 102
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-09-06 22:17:54.018914
