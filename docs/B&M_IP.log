@@ -19067,3 +19067,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie Lawyers Recognized in Law.com’s 2024 Legal Awards](https://www.bakermckenzie.com/en/newsroom/2024/09/lawcoms-2024-legal-awards)
 append_entries: 1
 Finish: 2024-09-06 16:25:48.126876
+------------------------------------------------------
+Started: 2024-09-06 18:26:55.481171
+Existing_entries: 101
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-09-06 18:26:56.147788
