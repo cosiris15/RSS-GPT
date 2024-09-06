@@ -19058,3 +19058,12 @@ Existing_entries: 100
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-09-06 14:17:57.886608
+------------------------------------------------------
+Started: 2024-09-06 16:25:44.635475
+Existing_entries: 100
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie Lawyers Recognized in Law.com’s 2024 Legal Awards](https://www.bakermckenzie.com/en/newsroom/2024/09/lawcoms-2024-legal-awards)
+append_entries: 1
+Finish: 2024-09-06 16:25:48.126876
