@@ -19801,3 +19801,10 @@ Fetching from https://www.chinalawinsight.com/feed/
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/K&W
+------------------------------------------------------
+Started: 2024-09-08 18:25:35.780317
+Existing_entries: 214
+Fetching from https://www.chinalawinsight.com/feed/
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/K&W
