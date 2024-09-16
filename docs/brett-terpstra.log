@@ -34133,3 +34133,12 @@ Existing_entries: 281
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-09-16 12:40:14.379741
+------------------------------------------------------
+Started: 2024-09-16 14:19:41.360350
+Existing_entries: 281
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Keep It giveaway!](https://brett.trpstra.net/link/535/16810187/keep-it-giveaway)
+append_entries: 1
+Finish: 2024-09-16 14:19:45.562610
