@@ -34442,3 +34442,15 @@ Existing_entries: 282
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-09-20 18:27:03.948179
+------------------------------------------------------
+Started: 2024-09-20 20:22:12.165435
+Existing_entries: 282
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Web Excursions for September 20, 2024](https://brett.trpstra.net/link/535/16815563/web-excursions-for-september-20-2024)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The Keep It giveaway winners!](https://brett.trpstra.net/link/535/16815532/the-keep-it-giveaway-winners)
+append_entries: 2
+Finish: 2024-09-20 20:22:19.356045
