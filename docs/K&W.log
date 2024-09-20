@@ -20739,3 +20739,10 @@ Fetching from https://www.chinalawinsight.com/feed/
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/K&W
+------------------------------------------------------
+Started: 2024-09-20 06:28:23.489107
+Existing_entries: 224
+Fetching from https://www.chinalawinsight.com/feed/
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/K&W
