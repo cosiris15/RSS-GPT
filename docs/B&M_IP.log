@@ -20447,3 +20447,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie advises Flipp Operations on joining forces with MEDIA Central to create the world's leading provider of drive-to-store marketing](https://www.bakermckenzie.com/en/newsroom/2024/09/flipp-operations-joining-forces-with-media-central)
 append_entries: 1
 Finish: 2024-09-25 16:28:17.433261
+------------------------------------------------------
+Started: 2024-09-25 18:27:45.031497
+Existing_entries: 105
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-09-25 18:27:45.812583
