@@ -20438,3 +20438,12 @@ Existing_entries: 104
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-09-25 14:19:52.904339
+------------------------------------------------------
+Started: 2024-09-25 16:28:13.556571
+Existing_entries: 104
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie advises Flipp Operations on joining forces with MEDIA Central to create the world's leading provider of drive-to-store marketing](https://www.bakermckenzie.com/en/newsroom/2024/09/flipp-operations-joining-forces-with-media-central)
+append_entries: 1
+Finish: 2024-09-25 16:28:17.433261
