@@ -21376,3 +21376,12 @@ Existing_entries: 224
 Fetching from https://www.chinalawinsight.com/feed/
 append_entries: 0
 Finish: 2024-09-29 01:45:31.889470
+------------------------------------------------------
+Started: 2024-09-29 02:56:17.352741
+Existing_entries: 224
+Fetching from https://www.chinalawinsight.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Research and Practice on the Legal Issues of Cigar Smuggling](https://www.chinalawinsight.com/2024/09/articles/uncategorized/research-and-practice-on-the-legal-issues-of-cigar-smuggling/)
+append_entries: 1
+Finish: 2024-09-29 02:56:20.992874
