@@ -21080,3 +21080,15 @@ Existing_entries: 108
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-10-04 08:26:29.556540
+------------------------------------------------------
+Started: 2024-10-04 10:22:36.597189
+Existing_entries: 108
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Baker McKenzie Advises Haier on Completion of the Acquisition of Carrier's Commercial Refrigeration Business for an EV of USD 775 Million](https://www.bakermckenzie.com/en/newsroom/2024/10/haier-acquisition-of-carriers-refrigeration-business)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [UBE Corporation on its acquisition of LANXESS’ Urethane Systems business](https://www.bakermckenzie.com/en/newsroom/2024/10/ube-acquisition-of-lanxess-urethane-systems)
+append_entries: 2
+Finish: 2024-10-04 10:22:43.260780
