@@ -21092,3 +21092,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [UBE Corporation on its acquisition of LANXESS’ Urethane Systems business](https://www.bakermckenzie.com/en/newsroom/2024/10/ube-acquisition-of-lanxess-urethane-systems)
 append_entries: 2
 Finish: 2024-10-04 10:22:43.260780
+------------------------------------------------------
+Started: 2024-10-04 12:39:42.562003
+Existing_entries: 110
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-10-04 12:39:43.167267
