@@ -21815,3 +21815,12 @@ Existing_entries: 111
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2024-10-14 10:22:51.984023
+------------------------------------------------------
+Started: 2024-10-14 12:40:58.074729
+Existing_entries: 111
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Experienced AI and Healthcare Technology Lawyer Keo McKenzie Rejoins Baker McKenzie as a Partner in Washington, DC](https://www.bakermckenzie.com/en/newsroom/2024/10/keo-mckenzie)
+append_entries: 1
+Finish: 2024-10-14 12:41:01.891054
