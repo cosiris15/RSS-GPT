@@ -36182,3 +36182,12 @@ Existing_entries: 292
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-10-14 12:40:57.622003
+------------------------------------------------------
+Started: 2024-10-14 14:19:51.368437
+Existing_entries: 292
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [OmniPlan giveaway!](https://brett.trpstra.net/link/535/16843137/omniplan-giveaway)
+append_entries: 1
+Finish: 2024-10-14 14:19:55.392880
