@@ -21851,3 +21851,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie Client Lundbeck to Acquire Longboard in USD 2.6 Billion Transaction](https://www.bakermckenzie.com/en/newsroom/2024/10/lundbeck-to-acquire-longboard)
 append_entries: 1
 Finish: 2024-10-14 20:22:36.383914
+------------------------------------------------------
+Started: 2024-10-14 22:20:42.611995
+Existing_entries: 113
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-10-14 22:20:43.981237
