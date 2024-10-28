@@ -37223,3 +37223,12 @@ Existing_entries: 299
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-10-28 16:26:45.780646
+------------------------------------------------------
+Started: 2024-10-28 18:28:32.408854
+Existing_entries: 299
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Web Excursions for October 24, 2024](https://brett.trpstra.net/link/535/16867321/web-excursions-for-october-24-2024)
+append_entries: 1
+Finish: 2024-10-28 18:28:36.391473
