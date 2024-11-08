@@ -24316,3 +24316,23 @@ Append: [未经批准的境外上市药品合规谈之（二）：进口的合�
 Append: [China: School of Hard Knocks for UK Education Providers](https://www.chinalawinsight.com/2024/11/articles/uncategorized/china-school-of-hard-knocks-for-uk-education-providers/)
 append_entries: 7
 Finish: 2024-11-08 06:28:36.618857
+------------------------------------------------------
+Started: 2024-11-08 08:25:36.888859
+Existing_entries: 252
+Fetching from https://www.chinalawinsight.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [US Releases Proposed Rulemaking on Connected Vehicles: New Challenges for China’s Auto Industry](https://www.chinalawinsight.com/2024/11/articles/uncategorized/us-releases-proposed-rulemaking-on-connected-vehicles-new-challenges-for-chinas-auto-industry/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [软件可以租？——千变万化的无形资产交易](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e8%bd%af%e4%bb%b6%e5%8f%af%e4%bb%a5%e7%a7%9f%ef%bc%9f-%e5%8d%83%e5%8f%98%e4%b8%87%e5%8c%96%e7%9a%84%e6%97%a0%e5%bd%a2%e8%b5%84%e4%ba%a7%e4%ba%a4%e6%98%93/)
+Append: [海外家族信托案例比较研究：委托人及受托人的权力义务分配](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e6%b5%b7%e5%a4%96%e5%ae%b6%e6%97%8f%e4%bf%a1%e6%89%98%e6%a1%88%e4%be%8b%e6%af%94%e8%be%83%e7%a0%94%e7%a9%b6%ef%bc%9a%e5%a7%94%e6%89%98%e4%ba%ba%e5%8f%8a%e5%8f%97%e6%89%98%e4%ba%ba%e7%9a%84%e6%9d%83/)
+Append: [股权投资退出纠纷丨新《公司法》下对赌条款的履行问题](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e8%82%a1%e6%9d%83%e6%8a%95%e8%b5%84%e9%80%80%e5%87%ba%e7%ba%a0%e7%ba%b7%e4%b8%a8%e6%96%b0%e3%80%8a%e5%85%ac%e5%8f%b8%e6%b3%95%e3%80%8b%e4%b8%8b%e5%af%b9%e8%b5%8c%e6%9d%a1%e6%ac%be%e7%9a%84%e5%b1%a5/)
+Append: [《银团贷款业务管理办法》重点修订关注](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e3%80%8a%e9%93%b6%e5%9b%a2%e8%b4%b7%e6%ac%be%e4%b8%9a%e5%8a%a1%e7%ae%a1%e7%90%86%e5%8a%9e%e6%b3%95%e3%80%8b%e9%87%8d%e7%82%b9%e4%bf%ae%e8%ae%a2%e5%85%b3%e6%b3%a8/)
+Append: [改道港股，H股or红筹？（下篇）](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e6%94%b9%e9%81%93%e6%b8%af%e8%82%a1%ef%bc%8ch%e8%82%a1or%e7%ba%a2%e7%ad%b9%ef%bc%9f%ef%bc%88%e4%b8%8b%e7%af%87%ef%bc%89/)
+Append: [吟一字拈数须——首例个人信息跨境纠纷解读](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e5%90%9f%e4%b8%80%e5%ad%97%e6%8b%88%e6%95%b0%e9%a1%bb-%e9%a6%96%e4%be%8b%e4%b8%aa%e4%ba%ba%e4%bf%a1%e6%81%af%e8%b7%a8%e5%a2%83%e7%ba%a0%e7%ba%b7%e8%a7%a3%e8%af%bb/)
+Append: [保险业数据合规系列解读之二——保险业数据合规的法律体系](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e4%bf%9d%e9%99%a9%e4%b8%9a%e6%95%b0%e6%8d%ae%e5%90%88%e8%a7%84%e7%b3%bb%e5%88%97%e8%a7%a3%e8%af%bb%e4%b9%8b%e4%ba%8c-%e4%bf%9d%e9%99%a9%e4%b8%9a%e6%95%b0%e6%8d%ae%e5%90%88%e8%a7%84/)
+Append: [《企业营商风险与合规指引》第二版来袭——创造良好营商环境，助力企业合规前行](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e3%80%8a%e4%bc%81%e4%b8%9a%e8%90%a5%e5%95%86%e9%a3%8e%e9%99%a9%e4%b8%8e%e5%90%88%e8%a7%84%e6%8c%87%e5%bc%95%e3%80%8b%e7%ac%ac%e4%ba%8c%e7%89%88%e6%9d%a5%e8%a2%ad-%e5%88%9b%e9%80%a0/)
+Append: [新能源汽车积分的应用场景和可融资性探讨](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e6%96%b0%e8%83%bd%e6%ba%90%e6%b1%bd%e8%bd%a6%e7%a7%af%e5%88%86%e7%9a%84%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e5%92%8c%e5%8f%af%e8%9e%8d%e8%b5%84%e6%80%a7%e6%8e%a2%e8%ae%a8/)
+append_entries: 10
+Finish: 2024-11-08 08:25:43.482403
