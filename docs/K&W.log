@@ -24279,3 +24279,23 @@ Existing_entries: 235
 Fetching from https://www.chinalawinsight.com/feed/
 append_entries: 0
 Finish: 2024-11-08 02:49:44.013184
+------------------------------------------------------
+Started: 2024-11-08 04:24:22.682773
+Existing_entries: 235
+Fetching from https://www.chinalawinsight.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [法立则国安，法强则民乐——《中国两用物项出口管制条例》条文精讲及中美对比解读](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e6%b3%95%e7%ab%8b%e5%88%99%e5%9b%bd%e5%ae%89%ef%bc%8c%e6%b3%95%e5%bc%ba%e5%88%99%e6%b0%91%e4%b9%90-%e3%80%8a%e4%b8%ad%e5%9b%bd%e4%b8%a4%e7%94%a8%e7%89%a9%e9%a1%b9%e5%87%ba%e5%8f%a3/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [股东实缴出资与否的实务判断标准研究](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e8%82%a1%e4%b8%9c%e5%ae%9e%e7%bc%b4%e5%87%ba%e8%b5%84%e4%b8%8e%e5%90%a6%e7%9a%84%e5%ae%9e%e5%8a%a1%e5%88%a4%e6%96%ad%e6%a0%87%e5%87%86%e7%a0%94%e7%a9%b6/)
+Append: [智能网联汽车测绘合规风险再审视](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e6%99%ba%e8%83%bd%e7%bd%91%e8%81%94%e6%b1%bd%e8%bd%a6%e6%b5%8b%e7%bb%98%e5%90%88%e8%a7%84%e9%a3%8e%e9%99%a9%e5%86%8d%e5%ae%a1%e8%a7%86/)
+Append: [而今迈步从头越——《银团贷款业务管理办法》热点问题探讨](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e8%80%8c%e4%bb%8a%e8%bf%88%e6%ad%a5%e4%bb%8e%e5%a4%b4%e8%b6%8a-%e3%80%8a%e9%93%b6%e5%9b%a2%e8%b4%b7%e6%ac%be%e4%b8%9a%e5%8a%a1%e7%ae%a1%e7%90%86%e5%8a%9e%e6%b3%95%e3%80%8b%e7%83%ad/)
+Append: [直挂云帆济沧海——《两用物项出口管制条例》简析](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e7%9b%b4%e6%8c%82%e4%ba%91%e5%b8%86%e6%b5%8e%e6%b2%a7%e6%b5%b7-%e3%80%8a%e4%b8%a4%e7%94%a8%e7%89%a9%e9%a1%b9%e5%87%ba%e5%8f%a3%e7%ae%a1%e5%88%b6%e6%9d%a1%e4%be%8b%e3%80%8b%e7%ae%80/)
+Append: [欧盟《外国补贴条例》下首例附条件批准申报评析](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e6%ac%a7%e7%9b%9f%e3%80%8a%e5%a4%96%e5%9b%bd%e8%a1%a5%e8%b4%b4%e6%9d%a1%e4%be%8b%e3%80%8b%e4%b8%8b%e9%a6%96%e4%be%8b%e9%99%84%e6%9d%a1%e4%bb%b6%e6%89%b9%e5%87%86%e7%94%b3%e6%8a%a5%e8%af%84%e6%9e%90/)
+Append: [聚焦新规：反洗钱力度不断强化，“自洗钱”该如何认定？](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e8%81%9a%e7%84%a6%e6%96%b0%e8%a7%84%ef%bc%9a%e5%8f%8d%e6%b4%97%e9%92%b1%e5%8a%9b%e5%ba%a6%e4%b8%8d%e6%96%ad%e5%bc%ba%e5%8c%96%ef%bc%8c%e8%87%aa%e6%b4%97%e9%92%b1%e8%af%a5%e5%a6%82/)
+Append: [A股并购重组新篇章：您的交易如何乘风破浪](https://www.chinalawinsight.com/2024/11/articles/uncategorized/a%e8%82%a1%e5%b9%b6%e8%b4%ad%e9%87%8d%e7%bb%84%e6%96%b0%e7%af%87%e7%ab%a0%ef%bc%9a%e6%82%a8%e7%9a%84%e4%ba%a4%e6%98%93%e5%a6%82%e4%bd%95%e4%b9%98%e9%a3%8e%e7%a0%b4%e6%b5%aa/)
+Append: [就业年龄歧视防治之简析与展望——退休系列文章之五](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e5%b0%b1%e4%b8%9a%e5%b9%b4%e9%be%84%e6%ad%a7%e8%a7%86%e9%98%b2%e6%b2%bb%e4%b9%8b%e7%ae%80%e6%9e%90%e4%b8%8e%e5%b1%95%e6%9c%9b-%e9%80%80%e4%bc%91%e7%b3%bb%e5%88%97%e6%96%87%e7%ab%a0/)
+Append: [多边开发银行合规制裁丨金杜协助某国有企业顺利解除亚行制裁](https://www.chinalawinsight.com/2024/11/articles/uncategorized/%e5%a4%9a%e8%be%b9%e5%bc%80%e5%8f%91%e9%93%b6%e8%a1%8c%e5%90%88%e8%a7%84%e5%88%b6%e8%a3%81%e4%b8%a8%e9%87%91%e6%9d%9c%e5%8d%8f%e5%8a%a9%e6%9f%90%e5%9b%bd%e6%9c%89%e4%bc%81%e4%b8%9a%e9%a1%ba%e5%88%a9/)
+append_entries: 10
+Finish: 2024-11-08 04:24:29.797494

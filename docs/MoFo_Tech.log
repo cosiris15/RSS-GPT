@@ -23425,3 +23425,12 @@ Existing_entries: 35
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2024-11-08 02:49:44.939895
+------------------------------------------------------
+Started: 2024-11-08 04:24:30.516065
+Existing_entries: 35
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Introducing the MoFo Tech Law Summit – Innovation Under Regulation](https://mofotech.mofo.com//topics/introducing-the-mofo-tech-law-summit-innovation-under-regulation)
+append_entries: 1
+Finish: 2024-11-08 04:24:33.439438
