@@ -38243,3 +38243,15 @@ Existing_entries: 305
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-11-11 14:19:54.041864
+------------------------------------------------------
+Started: 2024-11-11 16:26:26.686386
+Existing_entries: 305
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Monodraw giveaway!](https://brett.trpstra.net/link/535/16882624/monodraw-giveaway)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The Name Mangler giveaway winners!](https://brett.trpstra.net/link/535/16882625/the-name-mangler-giveaway-winners)
+append_entries: 2
+Finish: 2024-11-11 16:26:34.414540
