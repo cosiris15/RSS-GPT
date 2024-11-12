@@ -23746,3 +23746,12 @@ Existing_entries: 36
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2024-11-12 12:40:41.195961
+------------------------------------------------------
+Started: 2024-11-12 14:19:21.931664
+Existing_entries: 36
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [2024 Tech M&A Survey](https://mofotech.mofo.com//topics/2024-tech-m-a-survey)
+append_entries: 1
+Finish: 2024-11-12 14:19:25.062476
