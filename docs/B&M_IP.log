@@ -23888,3 +23888,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie Technology Attorneys Discuss The Future of Cybersecurity and Data Privacy with The American Lawyer Litigation Daily](https://www.bakermckenzie.com/en/newsroom/2024/11/future-of-cybersecurity-with-the-american-lawyer-litigation-daily)
 append_entries: 1
 Finish: 2024-11-12 02:47:24.139559
+------------------------------------------------------
+Started: 2024-11-12 04:24:16.902174
+Existing_entries: 114
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-11-12 04:24:18.675314
