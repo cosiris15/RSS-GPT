@@ -24074,3 +24074,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie Advises Flipp Operations on Joining Forces with MEDIA Central to Create the World's Leading Provider of Drive-To-Store Marketing / Closing Successfully Completed on 5 November 2024](https://www.bakermckenzie.com/en/newsroom/2024/11/flipp-operations-and-media-central-united-platform)
 append_entries: 1
 Finish: 2024-11-14 14:19:33.201221
+------------------------------------------------------
+Started: 2024-11-14 16:26:46.181967
+Existing_entries: 116
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-11-14 16:26:46.648680
