@@ -24149,3 +24149,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Baker McKenzie Earns Nine Practice Area and Eight Individual Rankings in The Legal 500 Canada 2025](https://www.bakermckenzie.com/en/newsroom/2024/11/legal-500-canada-2025)
 append_entries: 1
 Finish: 2024-11-15 14:19:44.374205
+------------------------------------------------------
+Started: 2024-11-15 16:27:01.151116
+Existing_entries: 117
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2024-11-15 16:27:01.574175
