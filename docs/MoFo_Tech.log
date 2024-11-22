@@ -24427,3 +24427,12 @@ Existing_entries: 37
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2024-11-21 22:19:59.521139
+------------------------------------------------------
+Started: 2024-11-22 01:44:36.971197
+Existing_entries: 37
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [AI Dynamics: Regulatory Landscape and Industry Insights](https://mofotech.mofo.com//topics/ai-dynamics-regulatory-landscape-and-industry-insights)
+append_entries: 1
+Finish: 2024-11-22 01:44:40.765301
