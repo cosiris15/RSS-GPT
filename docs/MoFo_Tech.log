@@ -24844,3 +24844,12 @@ Existing_entries: 38
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2024-11-27 16:28:02.102900
+------------------------------------------------------
+Started: 2024-11-27 18:29:55.223369
+Existing_entries: 38
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [MoFo Tech Law Summit – Responsible Tech: Policy Becomes Practice](https://mofotech.mofo.com//topics/mofo-tech-law-summit-responsible-tech-policy-becomes-practice)
+append_entries: 1
+Finish: 2024-11-27 18:29:59.061479
