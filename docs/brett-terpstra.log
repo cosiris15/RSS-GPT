@@ -39500,3 +39500,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Web Excursions for November 28th, 2024](https://brett.trpstra.net/link/535/16901093/web-excursions-for-november-28th-2024)
 append_entries: 1
 Finish: 2024-11-28 14:20:20.863092
+------------------------------------------------------
+Started: 2024-11-28 16:26:56.503367
+Existing_entries: 316
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A health update](https://brett.trpstra.net/link/535/16901133/a-health-update)
+append_entries: 1
+Finish: 2024-11-28 16:26:57.219737
