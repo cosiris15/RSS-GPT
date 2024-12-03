@@ -39946,3 +39946,12 @@ Existing_entries: 394
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-03 14:18:37.878352
+------------------------------------------------------
+Started: 2024-12-03 16:27:50.204650
+Existing_entries: 394
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Key repeat in Sequoia](https://brett.trpstra.net/link/535/16909674/key-repeat-in-sequoia)
+append_entries: 1
+Finish: 2024-12-03 16:27:51.207070
