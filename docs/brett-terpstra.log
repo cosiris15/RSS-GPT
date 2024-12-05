@@ -40096,3 +40096,12 @@ Existing_entries: 396
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-05 14:20:47.422333
+------------------------------------------------------
+Started: 2024-12-05 16:28:46.493474
+Existing_entries: 396
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Web Excursions for December 5th, 2024](https://brett.trpstra.net/link/535/16911897/web-excursions-for-december-5th-2024)
+append_entries: 1
+Finish: 2024-12-05 16:28:47.369070
