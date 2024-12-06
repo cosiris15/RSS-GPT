@@ -40192,3 +40192,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Take Control Books giveaway winners!](https://brett.trpstra.net/link/535/16913133/the-take-control-books-giveaway-winners)
 append_entries: 1
 Finish: 2024-12-06 20:24:14.943151
+------------------------------------------------------
+Started: 2024-12-06 22:20:38.001876
+Existing_entries: 398
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2024-12-06 22:20:38.820272
