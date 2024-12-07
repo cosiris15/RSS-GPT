@@ -25516,3 +25516,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MoFo Tech Law Summit – Tech and Antitrust: Policy Shifts in the Second Trump Administration](https://mofotech.mofo.com//topics/mofo-tech-law-summit-tech-and-antitrust-policy-shifts-in-the-second-trump-administration)
 append_entries: 1
 Finish: 2024-12-07 01:46:31.927703
+------------------------------------------------------
+Started: 2024-12-07 03:02:07.267055
+Existing_entries: 40
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+append_entries: 0
+Finish: 2024-12-07 03:02:07.474766
