@@ -26864,3 +26864,23 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [企业出海税务指南系列文章（二）：海外业务规划税务考量](https://www.chinalawinsight.com/2024/12/articles/uncategorized/%e4%bc%81%e4%b8%9a%e5%87%ba%e6%b5%b7%e7%a8%8e%e5%8a%a1%e6%8c%87%e5%8d%97%e7%b3%bb%e5%88%97%e6%96%87%e7%ab%a0%ef%bc%88%e4%ba%8c%ef%bc%89%ef%bc%9a%e6%b5%b7%e5%a4%96%e4%b8%9a%e5%8a%a1%e8%a7%84%e5%88%92/)
 append_entries: 1
 Finish: 2024-12-13 01:49:30.343143
+------------------------------------------------------
+Started: 2024-12-13 03:05:25.314875
+Existing_entries: 286
+Fetching from https://www.chinalawinsight.com/feed/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [新创性的跨国界挑战：美国专利法102a条下的外国专利](https://www.chinalawinsight.com/2024/12/articles/uncategorized/%e6%96%b0%e5%88%9b%e6%80%a7%e7%9a%84%e8%b7%a8%e5%9b%bd%e7%95%8c%e6%8c%91%e6%88%98%ef%bc%9a%e7%be%8e%e5%9b%bd%e4%b8%93%e5%88%a9%e6%b3%95102a%e6%9d%a1%e4%b8%8b%e7%9a%84%e5%a4%96%e5%9b%bd%e4%b8%93/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [警惕“异化”灵活用工，揭开医药领域发票虚开的真相丨医药营销合规系列（一）](https://www.chinalawinsight.com/2024/12/articles/uncategorized/%e8%ad%a6%e6%83%95%e5%bc%82%e5%8c%96%e7%81%b5%e6%b4%bb%e7%94%a8%e5%b7%a5%ef%bc%8c%e6%8f%ad%e5%bc%80%e5%8c%bb%e8%8d%af%e9%a2%86%e5%9f%9f%e5%8f%91%e7%a5%a8%e8%99%9a%e5%bc%80%e7%9a%84/)
+Append: [多边开发银行合规制裁丨金杜担任亚行认可的合规监管人，独立考察企业合规管理有效性](https://www.chinalawinsight.com/2024/12/articles/uncategorized/%e5%a4%9a%e8%be%b9%e5%bc%80%e5%8f%91%e9%93%b6%e8%a1%8c%e5%90%88%e8%a7%84%e5%88%b6%e8%a3%81%e4%b8%a8%e9%87%91%e6%9d%9c%e6%8b%85%e4%bb%bb%e4%ba%9a%e8%a1%8c%e8%ae%a4%e5%8f%af%e7%9a%84%e5%90%88%e8%a7%84/)
+Append: [企业出海税务指南系列文章（一）：海外控股架构搭建税务考量](https://www.chinalawinsight.com/2024/12/articles/uncategorized/%e4%bc%81%e4%b8%9a%e5%87%ba%e6%b5%b7%e7%a8%8e%e5%8a%a1%e6%8c%87%e5%8d%97%e7%b3%bb%e5%88%97%e6%96%87%e7%ab%a0%ef%bc%88%e4%b8%80%ef%bc%89%ef%bc%9a%e6%b5%b7%e5%a4%96%e6%8e%a7%e8%82%a1%e6%9e%b6%e6%9e%84/)
+Append: [SAMR Releases Antitrust Guidelines for SEPs](https://www.chinalawinsight.com/2024/12/articles/uncategorized/samr-releases-antitrust-guidelines-for-seps/)
+Append: [私募基金托管人争议解决实务问答（一）](https://www.chinalawinsight.com/2024/12/articles/uncategorized/%e7%a7%81%e5%8b%9f%e5%9f%ba%e9%87%91%e6%89%98%e7%ae%a1%e4%ba%ba%e4%ba%89%e8%ae%ae%e8%a7%a3%e5%86%b3%e5%ae%9e%e5%8a%a1%e9%97%ae%e7%ad%94%ef%bc%88%e4%b8%80%ef%bc%89/)
+Append: [雪茄课丨关税法明起实施 雪茄进口重大调整](https://www.chinalawinsight.com/2024/12/articles/uncategorized/%e9%9b%aa%e8%8c%84%e8%af%be%e4%b8%a8%e5%85%b3%e7%a8%8e%e6%b3%95%e6%98%8e%e8%b5%b7%e5%ae%9e%e6%96%bd-%e9%9b%aa%e8%8c%84%e8%bf%9b%e5%8f%a3%e9%87%8d%e5%a4%a7%e8%b0%83%e6%95%b4/)
+Append: [Cigars’ Talk: Major Adjustments in Cigar Imports as the Tariff Law Takes Effect Tomorrow](https://www.chinalawinsight.com/2024/12/articles/uncategorized/cigars-talk-major-adjustments-in-cigar-imports-as-the-tariff-law-takes-effect-tomorrow/)
+Append: [中国国家金融监督管理总局《银团贷款业务管理办法》: 境外贷款人注意事项](https://www.chinalawinsight.com/2024/12/articles/uncategorized/%e4%b8%ad%e5%9b%bd%e5%9b%bd%e5%ae%b6%e9%87%91%e8%9e%8d%e7%9b%91%e7%9d%a3%e7%ae%a1%e7%90%86%e6%80%bb%e5%b1%80%e3%80%8a%e9%93%b6%e5%9b%a2%e8%b4%b7%e6%ac%be%e4%b8%9a%e5%8a%a1%e7%ae%a1%e7%90%86%e5%8a%9e/)
+Append: [China’s New Syndicated Loan Measures – what offshore lenders need to know](https://www.chinalawinsight.com/2024/12/articles/uncategorized/chinas-new-syndicated-loan-measures-what-offshore-lenders-need-to-know/)
+append_entries: 10
+Finish: 2024-12-13 03:05:25.574461
