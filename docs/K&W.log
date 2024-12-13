@@ -26855,3 +26855,12 @@ Existing_entries: 285
 Fetching from https://www.chinalawinsight.com/feed/
 append_entries: 0
 Finish: 2024-12-12 22:21:08.557282
+------------------------------------------------------
+Started: 2024-12-13 01:49:30.109144
+Existing_entries: 285
+Fetching from https://www.chinalawinsight.com/feed/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [企业出海税务指南系列文章（二）：海外业务规划税务考量](https://www.chinalawinsight.com/2024/12/articles/uncategorized/%e4%bc%81%e4%b8%9a%e5%87%ba%e6%b5%b7%e7%a8%8e%e5%8a%a1%e6%8c%87%e5%8d%97%e7%b3%bb%e5%88%97%e6%96%87%e7%ab%a0%ef%bc%88%e4%ba%8c%ef%bc%89%ef%bc%9a%e6%b5%b7%e5%a4%96%e4%b8%9a%e5%8a%a1%e8%a7%84%e5%88%92/)
+append_entries: 1
+Finish: 2024-12-13 01:49:30.343143
