@@ -40903,3 +40903,12 @@ Existing_entries: 401
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-16 14:21:19.768531
+------------------------------------------------------
+Started: 2024-12-16 16:28:44.602221
+Existing_entries: 401
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Drafts giveaway!](https://brett.trpstra.net/link/535/16922247/drafts-giveaway)
+append_entries: 1
+Finish: 2024-12-16 16:28:45.762771
