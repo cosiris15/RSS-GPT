@@ -40981,3 +40981,12 @@ Existing_entries: 403
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-17 14:20:52.949064
+------------------------------------------------------
+Started: 2024-12-17 16:28:56.873086
+Existing_entries: 403
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Manifesto for Ubiquitous Linking and a Marked Sale!](https://brett.trpstra.net/link/535/16923018/the-manifesto-for-ubiquitous-linking-and-a-marked-sale)
+append_entries: 1
+Finish: 2024-12-17 16:28:57.553181
