@@ -26434,3 +26434,12 @@ Existing_entries: 40
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2024-12-19 20:22:27.537890
+------------------------------------------------------
+Started: 2024-12-19 22:18:55.233199
+Existing_entries: 40
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Current State of the AI VC Financing Market](https://mofotech.mofo.com//topics/current-state-of-the-ai-vc-financing-market)
+append_entries: 1
+Finish: 2024-12-19 22:18:55.319661
