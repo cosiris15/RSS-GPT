@@ -41215,3 +41215,12 @@ Existing_entries: 405
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-20 20:21:41.506138
+------------------------------------------------------
+Started: 2024-12-20 22:18:50.841721
+Existing_entries: 405
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Drafts giveaway winner!](https://brett.trpstra.net/link/535/16925462/the-drafts-giveaway-winner)
+append_entries: 1
+Finish: 2024-12-20 22:18:51.687486
