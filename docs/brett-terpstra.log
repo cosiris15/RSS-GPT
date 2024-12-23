@@ -41422,3 +41422,12 @@ Existing_entries: 408
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-23 14:18:46.589287
+------------------------------------------------------
+Started: 2024-12-23 16:25:04.165314
+Existing_entries: 408
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GoodTask for iOS and Mac giveaway!](https://brett.trpstra.net/link/535/16926637/goodtask-for-ios-and-mac-giveaway)
+append_entries: 1
+Finish: 2024-12-23 16:25:04.851794
