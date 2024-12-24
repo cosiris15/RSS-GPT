@@ -26779,3 +26779,12 @@ Existing_entries: 41
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2024-12-24 14:17:53.439113
+------------------------------------------------------
+Started: 2024-12-24 16:24:34.026515
+Existing_entries: 41
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Bad Guys Have AI, Too](https://mofotech.mofo.com//topics/the-bad-guys-have-ai-too)
+append_entries: 1
+Finish: 2024-12-24 16:24:34.201385
