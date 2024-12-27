@@ -41743,3 +41743,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The GoodTask for iOS and Mac giveaway winners!](https://brett.trpstra.net/link/535/16928736/the-goodtask-for-ios-and-mac-giveaway-winners)
 append_entries: 1
 Finish: 2024-12-27 20:21:02.950734
+------------------------------------------------------
+Started: 2024-12-27 22:18:23.381579
+Existing_entries: 413
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2024-12-27 22:18:24.222950
