@@ -41959,3 +41959,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Brett's Favorites 2024: Hardware](https://brett.trpstra.net/link/535/16930547/bretts-favorites-2024-hardware)
 append_entries: 1
 Finish: 2024-12-30 18:27:45.626720
+------------------------------------------------------
+Started: 2024-12-30 20:21:19.740248
+Existing_entries: 415
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2024-12-30 20:21:20.819768
