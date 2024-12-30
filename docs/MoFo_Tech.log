@@ -27235,3 +27235,12 @@ Existing_entries: 43
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2024-12-30 20:21:21.877530
+------------------------------------------------------
+Started: 2024-12-30 22:18:40.235737
+Existing_entries: 43
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Strengthened AI Oversight in the Netherlands](https://mofotech.mofo.com//topics/strengthened-ai-oversight-in-the-netherlands)
+append_entries: 1
+Finish: 2024-12-30 22:18:40.303851
