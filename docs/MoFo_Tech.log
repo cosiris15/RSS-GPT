@@ -27244,3 +27244,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Strengthened AI Oversight in the Netherlands](https://mofotech.mofo.com//topics/strengthened-ai-oversight-in-the-netherlands)
 append_entries: 1
 Finish: 2024-12-30 22:18:40.303851
+------------------------------------------------------
+Started: 2024-12-31 01:38:57.562459
+Existing_entries: 44
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+append_entries: 0
+Finish: 2024-12-31 01:38:57.770086
