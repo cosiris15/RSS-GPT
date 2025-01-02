@@ -27442,3 +27442,12 @@ Existing_entries: 44
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2025-01-02 16:25:40.084456
+------------------------------------------------------
+Started: 2025-01-02 18:28:06.320664
+Existing_entries: 44
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dirty Data Damaging Deals – Data Issues in AI M&A](https://mofotech.mofo.com//topics/dirty-data-damaging-deals-data-issues-in-ai-m-a)
+append_entries: 1
+Finish: 2025-01-02 18:28:06.712379
