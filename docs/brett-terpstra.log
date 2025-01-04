@@ -42331,3 +42331,12 @@ Existing_entries: 421
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-01-04 16:23:25.481605
+------------------------------------------------------
+Started: 2025-01-04 18:26:19.751512
+Existing_entries: 421
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Stripping Emoji from a string](https://brett.trpstra.net/link/535/16933504/stripping-emoji-from-a-string)
+append_entries: 1
+Finish: 2025-01-04 18:26:20.541528
