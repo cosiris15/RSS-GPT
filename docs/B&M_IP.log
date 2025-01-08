@@ -28010,3 +28010,12 @@ Existing_entries: 118
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2025-01-08 08:26:55.316730
+------------------------------------------------------
+Started: 2025-01-08 10:21:59.982371
+Existing_entries: 118
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Disputes Forecast 2025](https://www.bakermckenzie.com/en/insight/publications/2025/01/global-disputes-forecast-2025)
+append_entries: 1
+Finish: 2025-01-08 10:22:00.565556
