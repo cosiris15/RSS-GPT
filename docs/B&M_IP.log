@@ -28019,3 +28019,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Global Disputes Forecast 2025](https://www.bakermckenzie.com/en/insight/publications/2025/01/global-disputes-forecast-2025)
 append_entries: 1
 Finish: 2025-01-08 10:22:00.565556
+------------------------------------------------------
+Started: 2025-01-08 12:40:53.200384
+Existing_entries: 119
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2025-01-08 12:40:53.678539
