@@ -42910,3 +42910,12 @@ Existing_entries: 426
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-01-12 14:16:35.030109
+------------------------------------------------------
+Started: 2025-01-12 16:23:03.545253
+Existing_entries: 426
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [My "remote" web development setup](https://brett.trpstra.net/link/535/16938543/my-remote-web-development-setup)
+append_entries: 1
+Finish: 2025-01-12 16:23:04.760878
