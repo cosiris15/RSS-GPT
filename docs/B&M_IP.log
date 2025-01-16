@@ -28562,3 +28562,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Baker McKenzie Earns 125 Practice Areas and 239 Individual Rankings in The Legal 500 Asia Pacific 2025](https://www.bakermckenzie.com/en/newsroom/2025/01/legal-500-ap-2025)
 append_entries: 1
 Finish: 2025-01-16 01:36:45.325566
+------------------------------------------------------
+Started: 2025-01-16 02:45:00.513702
+Existing_entries: 120
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2025-01-16 02:45:01.158757
