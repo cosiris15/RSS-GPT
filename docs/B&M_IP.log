@@ -28553,3 +28553,12 @@ Existing_entries: 119
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2025-01-15 22:18:18.313996
+------------------------------------------------------
+Started: 2025-01-16 01:36:44.977618
+Existing_entries: 119
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Baker McKenzie Earns 125 Practice Areas and 239 Individual Rankings in The Legal 500 Asia Pacific 2025](https://www.bakermckenzie.com/en/newsroom/2025/01/legal-500-ap-2025)
+append_entries: 1
+Finish: 2025-01-16 01:36:45.325566
