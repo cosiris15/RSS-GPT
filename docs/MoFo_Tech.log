@@ -28975,3 +28975,15 @@ Existing_entries: 47
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2025-01-23 22:18:38.012827
+------------------------------------------------------
+Started: 2025-01-24 01:37:31.207706
+Existing_entries: 47
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FDA Draft Guidance on Artificial Intelligence-Enabled Device Software Functions](https://mofotech.mofo.com//topics/250121-fda-draft-guidance-artificial-intelligence-device-software)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FDA Releases Draft Guidance on Evaluating the Risk and Credibility of AI Used in Establishing Drug and Device Safety, Effectiveness, and Quality](https://mofotech.mofo.com//topics/250116-fda-releases-draft-guidance-ai-drug-device-safety)
+append_entries: 2
+Finish: 2025-01-24 01:37:31.442707

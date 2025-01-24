@@ -29135,3 +29135,12 @@ Existing_entries: 121
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2025-01-23 22:18:37.937657
+------------------------------------------------------
+Started: 2025-01-24 01:37:30.780792
+Existing_entries: 121
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Baker McKenzie advises Kantar Group on the proposed sale of Kantar Media to H.I.G. Capital](https://www.bakermckenzie.com/en/newsroom/2025/01/kantar)
+append_entries: 1
+Finish: 2025-01-24 01:37:31.191022
