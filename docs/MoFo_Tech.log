@@ -28987,3 +28987,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FDA Releases Draft Guidance on Evaluating the Risk and Credibility of AI Used in Establishing Drug and Device Safety, Effectiveness, and Quality](https://mofotech.mofo.com//topics/250116-fda-releases-draft-guidance-ai-drug-device-safety)
 append_entries: 2
 Finish: 2025-01-24 01:37:31.442707
+------------------------------------------------------
+Started: 2025-01-24 02:47:30.601763
+Existing_entries: 49
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+append_entries: 0
+Finish: 2025-01-24 02:47:30.782373
