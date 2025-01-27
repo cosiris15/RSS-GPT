@@ -29393,3 +29393,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Baker McKenzie advises Fagron Group on the acquisition of Euro OTC & Audor Pharma GmbH](https://www.bakermckenzie.com/en/newsroom/2025/01/fagron-group-acquisition-of-euro-otc-audor-pharma)
 append_entries: 1
 Finish: 2025-01-27 10:22:11.563333
+------------------------------------------------------
+Started: 2025-01-27 12:39:49.480021
+Existing_entries: 123
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2025-01-27 12:39:49.936443
