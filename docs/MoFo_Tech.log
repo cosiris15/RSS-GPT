@@ -29470,3 +29470,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [AI Trends for 2025 - Dirty Data Damaging Deals – Data Issues in AI M&A](https://mofotech.mofo.com//topics/ai-trends-for-2025---dirty-data-damaging-deals-data-issues-in-ai-m-a)
 append_entries: 1
 Finish: 2025-01-30 16:26:02.134749
+------------------------------------------------------
+Started: 2025-01-30 18:27:25.559400
+Existing_entries: 50
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+append_entries: 0
+Finish: 2025-01-30 18:27:25.597169
