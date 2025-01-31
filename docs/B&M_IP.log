@@ -29684,3 +29684,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Redefining Luxury & Fashion: Transformative Insights for the Future](https://www.bakermckenzie.com/en/insight/events/2025/03/redefining-luxury-and-fashion)
 append_entries: 1
 Finish: 2025-01-31 10:20:36.595508
+------------------------------------------------------
+Started: 2025-01-31 12:38:45.588747
+Existing_entries: 124
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2025-01-31 12:38:46.147495
