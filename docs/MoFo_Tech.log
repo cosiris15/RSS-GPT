@@ -29536,3 +29536,12 @@ Existing_entries: 50
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2025-01-31 14:18:06.909628
+------------------------------------------------------
+Started: 2025-01-31 16:24:44.034880
+Existing_entries: 50
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AI Trends for 2025 - Copyright Law's Impact on AI Model Training and Outputs](https://mofotech.mofo.com//topics/ai-trends-for-2025---copyright-law-s-impact-on-ai-model-training-and-outputs)
+append_entries: 1
+Finish: 2025-01-31 16:24:44.147546
