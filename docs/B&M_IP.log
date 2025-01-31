@@ -29675,3 +29675,12 @@ Existing_entries: 123
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2025-01-31 08:25:17.053697
+------------------------------------------------------
+Started: 2025-01-31 10:20:36.045787
+Existing_entries: 123
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Redefining Luxury & Fashion: Transformative Insights for the Future](https://www.bakermckenzie.com/en/insight/events/2025/03/redefining-luxury-and-fashion)
+append_entries: 1
+Finish: 2025-01-31 10:20:36.595508
