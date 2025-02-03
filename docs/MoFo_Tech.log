@@ -29767,3 +29767,12 @@ Existing_entries: 51
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2025-02-03 18:27:26.700120
+------------------------------------------------------
+Started: 2025-02-03 20:21:20.751484
+Existing_entries: 51
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AI Trends for 2025 - Consumer Protection Efforts by State AGs Focus on AI and Social Media](https://mofotech.mofo.com//topics/ai-trends-for-2025-consumer-protection-efforts-by-state-ags-focus-on-ai-and-social-media)
+append_entries: 1
+Finish: 2025-02-03 20:21:20.941808
