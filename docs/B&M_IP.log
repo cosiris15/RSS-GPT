@@ -30425,3 +30425,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Baker McKenzie Scores Top Results in 2025 World Trademark Review 1000](https://www.bakermckenzie.com/en/newsroom/2025/02/2025-world-trademark-review-1000)
 append_entries: 1
 Finish: 2025-02-10 16:26:27.715889
+------------------------------------------------------
+Started: 2025-02-10 18:28:28.941384
+Existing_entries: 125
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2025-02-10 18:28:29.567490
