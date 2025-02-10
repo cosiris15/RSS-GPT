@@ -30416,3 +30416,12 @@ Existing_entries: 124
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2025-02-10 14:19:31.028713
+------------------------------------------------------
+Started: 2025-02-10 16:26:27.038063
+Existing_entries: 124
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Baker McKenzie Scores Top Results in 2025 World Trademark Review 1000](https://www.bakermckenzie.com/en/newsroom/2025/02/2025-world-trademark-review-1000)
+append_entries: 1
+Finish: 2025-02-10 16:26:27.715889
