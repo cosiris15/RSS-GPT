@@ -30611,3 +30611,12 @@ Existing_entries: 125
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2025-02-13 06:28:46.300993
+------------------------------------------------------
+Started: 2025-02-13 08:26:31.881484
+Existing_entries: 125
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Baker McKenzie acts for Novonesis in EUR1.5 bn acquisition of dsm-firmenich’s share of the Feed Enzyme Alliance](https://www.bakermckenzie.com/en/newsroom/2025/02/novonesis-acquisition-of-dsm-firmenichs-share)
+append_entries: 1
+Finish: 2025-02-13 08:26:32.419016
