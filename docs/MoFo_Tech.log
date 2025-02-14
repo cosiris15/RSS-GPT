@@ -30508,3 +30508,12 @@ Existing_entries: 54
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2025-02-13 22:18:55.824099
+------------------------------------------------------
+Started: 2025-02-14 01:38:59.651572
+Existing_entries: 54
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Patents and Trade Secrets in AI and Life Sciences](https://mofotech.mofo.com//topics/patents-and-trade-secrets-ai-and-life-sciences)
+append_entries: 1
+Finish: 2025-02-14 01:38:59.864201
