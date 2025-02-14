@@ -30568,3 +30568,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [AI Trends for 2025 - AI and Financial Services: Balancing Innovation with Regulatory Compliance](https://mofotech.mofo.com//topics/ai-trends-for-2025---ai-and-financial-services-balancing-innovation-with-regulatory-compliance)
 append_entries: 1
 Finish: 2025-02-14 16:23:59.990942
+------------------------------------------------------
+Started: 2025-02-14 18:28:02.301341
+Existing_entries: 56
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+append_entries: 0
+Finish: 2025-02-14 18:28:02.469203
