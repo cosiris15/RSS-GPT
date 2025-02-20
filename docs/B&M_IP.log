@@ -31136,3 +31136,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Baker McKenzie Advises Buyer DERTOUR Group on its Acquisition of Hotelplan Group, with the Exception of Interhome](https://www.bakermckenzie.com/en/newsroom/2025/02/dertour-group-acquisition-of-hotelplan-group)
 append_entries: 1
 Finish: 2025-02-20 10:22:15.114845
+------------------------------------------------------
+Started: 2025-02-20 12:41:07.173049
+Existing_entries: 128
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2025-02-20 12:41:07.680029
