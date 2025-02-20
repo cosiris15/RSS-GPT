@@ -31127,3 +31127,12 @@ Existing_entries: 127
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2025-02-20 08:26:59.442818
+------------------------------------------------------
+Started: 2025-02-20 10:22:14.525867
+Existing_entries: 127
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Baker McKenzie Advises Buyer DERTOUR Group on its Acquisition of Hotelplan Group, with the Exception of Interhome](https://www.bakermckenzie.com/en/newsroom/2025/02/dertour-group-acquisition-of-hotelplan-group)
+append_entries: 1
+Finish: 2025-02-20 10:22:15.114845
