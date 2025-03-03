@@ -31910,3 +31910,12 @@ Existing_entries: 128
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2025-03-03 06:31:17.193557
+------------------------------------------------------
+Started: 2025-03-03 08:29:18.514528
+Existing_entries: 128
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Baker McKenzie Advises Arbonia on the Completion of the Sale of its Climate Division to Midea Group for EUR 742 million](https://www.bakermckenzie.com/en/newsroom/2025/03/arbonia-sale-of-climate-division-to-midea-group)
+append_entries: 1
+Finish: 2025-03-03 08:29:19.177201
