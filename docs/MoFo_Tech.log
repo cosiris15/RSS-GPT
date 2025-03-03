@@ -31783,3 +31783,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [AI Trends for 2025 - Advising boards on AI-related disclosure and governance obligations](https://mofotech.mofo.com//topics/ai-trends-for-2025---advising-boards-on-ai-related-disclosure-and-governance-obligations)
 append_entries: 1
 Finish: 2025-03-03 14:20:36.536534
+------------------------------------------------------
+Started: 2025-03-03 16:26:39.993116
+Existing_entries: 57
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AI Trends for 2025 - Regulatory Obligations Persist in the Face of Broker-Dealers’ Use of Gen AI](https://mofotech.mofo.com//topics/ai-trends-for-2025---regulatory-obligations-persist-in-the-face-of-broker-dealers-use-of-gen-ai)
+append_entries: 1
+Finish: 2025-03-03 16:26:40.145362
