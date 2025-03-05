@@ -32084,3 +32084,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Baker McKenzie advises Centric Software (Dassault Systèmes’ group) on the acquisition of Contentserv Group](https://www.bakermckenzie.com/en/newsroom/2025/03/dassault-systemes-group)
 append_entries: 1
 Finish: 2025-03-05 18:30:33.707889
+------------------------------------------------------
+Started: 2025-03-05 20:23:50.167332
+Existing_entries: 130
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2025-03-05 20:23:50.571830
