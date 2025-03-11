@@ -32462,3 +32462,12 @@ Existing_entries: 130
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2025-03-11 01:44:31.836348
+------------------------------------------------------
+Started: 2025-03-11 02:57:27.465219
+Existing_entries: 130
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [What is shaping the Luxury, Fashion and Cosmetics sector in 2025?](https://www.bakermckenzie.com/en/insight/publications/2025/03/trends-in-luxury-fashion-cosmetics)
+append_entries: 1
+Finish: 2025-03-11 02:57:28.046454
