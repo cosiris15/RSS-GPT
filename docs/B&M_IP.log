@@ -32576,3 +32576,12 @@ Existing_entries: 132
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2025-03-12 12:42:42.651857
+------------------------------------------------------
+Started: 2025-03-12 14:21:08.529228
+Existing_entries: 132
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Baker McKenzie Advises TechQuartier on Takeover of IMPACT FESTIVALS](https://www.bakermckenzie.com/en/newsroom/2025/03/techquartier-takeover)
+append_entries: 1
+Finish: 2025-03-12 14:21:09.056172
