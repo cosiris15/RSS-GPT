@@ -32585,3 +32585,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Baker McKenzie Advises TechQuartier on Takeover of IMPACT FESTIVALS](https://www.bakermckenzie.com/en/newsroom/2025/03/techquartier-takeover)
 append_entries: 1
 Finish: 2025-03-12 14:21:09.056172
+------------------------------------------------------
+Started: 2025-03-12 16:28:07.269835
+Existing_entries: 133
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2025-03-12 16:28:07.723457
