@@ -47593,3 +47593,12 @@ Existing_entries: 459
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-03-17 12:44:45.594381
+------------------------------------------------------
+Started: 2025-03-17 14:21:32.955687
+Existing_entries: 459
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bike giveaway!](https://brett.trpstra.net/link/535/16985024/bike-giveaway)
+append_entries: 1
+Finish: 2025-03-17 14:21:34.123432
