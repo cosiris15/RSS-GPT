@@ -32918,3 +32918,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Navigating Geopolitical Divides: What Global Businesses Need to Know in 2025](https://www.bakermckenzie.com/en/insight/publications/2025/03/navigating-geopolitical-divides)
 append_entries: 1
 Finish: 2025-03-17 04:25:57.166098
+------------------------------------------------------
+Started: 2025-03-17 06:31:25.435351
+Existing_entries: 134
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+append_entries: 0
+Finish: 2025-03-17 06:31:26.123422
