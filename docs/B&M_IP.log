@@ -32909,3 +32909,12 @@ Existing_entries: 133
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2025-03-17 03:00:36.746790
+------------------------------------------------------
+Started: 2025-03-17 04:25:56.711604
+Existing_entries: 133
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Navigating Geopolitical Divides: What Global Businesses Need to Know in 2025](https://www.bakermckenzie.com/en/insight/publications/2025/03/navigating-geopolitical-divides)
+append_entries: 1
+Finish: 2025-03-17 04:25:57.166098
