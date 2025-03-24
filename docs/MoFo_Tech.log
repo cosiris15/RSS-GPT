@@ -33307,3 +33307,12 @@ Existing_entries: 59
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2025-03-24 20:22:20.244907
+------------------------------------------------------
+Started: 2025-03-24 22:21:33.377018
+Existing_entries: 59
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [D.C. Circuit Holds that Works Created Solely by AI are Not Copyrightable](https://mofotech.mofo.com//topics/circuit-holds-that-works-created-solely-by-ai-are-not-copyrightable)
+append_entries: 1
+Finish: 2025-03-24 22:21:33.442193
