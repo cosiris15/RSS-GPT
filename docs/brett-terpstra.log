@@ -48415,3 +48415,12 @@ Existing_entries: 465
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-03-28 16:27:38.355170
+------------------------------------------------------
+Started: 2025-03-28 18:31:18.659174
+Existing_entries: 465
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Bear giveaway winners!](https://brett.trpstra.net/link/535/16994264/the-bear-giveaway-winners)
+append_entries: 1
+Finish: 2025-03-28 18:31:19.479953
