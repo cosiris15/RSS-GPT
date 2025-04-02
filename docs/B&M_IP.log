@@ -34094,3 +34094,12 @@ Existing_entries: 134
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2025-04-02 12:45:44.139643
+------------------------------------------------------
+Started: 2025-04-02 14:21:44.227275
+Existing_entries: 134
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Baker McKenzie Enhances Global Technology Litigation Capabilities with Addition of Christa Anderson in Washington, DC](https://www.bakermckenzie.com/en/newsroom/2025/04/christa-anderson-in-washington-dc)
+append_entries: 1
+Finish: 2025-04-02 14:21:44.620371
