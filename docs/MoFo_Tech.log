@@ -34510,3 +34510,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Federal Circuit Clarifies Requirements for Prior Art Under Pre-AIA 35 U.S.C. § 102(e)](https://mofotech.mofo.com//topics/federal-circuit-clarifies-requirements-for-prior-art-under-pre-aia-35-u-s-c-102-e-)
 append_entries: 1
 Finish: 2025-04-10 18:28:09.457207
+------------------------------------------------------
+Started: 2025-04-10 20:24:19.665786
+Existing_entries: 62
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+append_entries: 0
+Finish: 2025-04-10 20:24:19.740673
