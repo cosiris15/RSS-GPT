@@ -34703,3 +34703,12 @@ Existing_entries: 135
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2025-04-11 06:31:43.043870
+------------------------------------------------------
+Started: 2025-04-11 08:29:40.180205
+Existing_entries: 135
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Doing Business in China 2025](https://www.bakermckenzie.com/en/insight/publications/guides/doing-business-in-china)
+append_entries: 1
+Finish: 2025-04-11 08:29:40.619618
