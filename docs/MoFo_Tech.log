@@ -34780,3 +34780,12 @@ Existing_entries: 62
 Fetching from https://mofotech.mofo.com/rss/feed.xml
 append_entries: 0
 Finish: 2025-04-14 14:23:14.920964
+------------------------------------------------------
+Started: 2025-04-14 16:28:25.376118
+Existing_entries: 62
+Fetching from https://mofotech.mofo.com/rss/feed.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan’s Approach to AI Regulation in 2025](https://mofotech.mofo.com//topics/japan-s-approach-to-ai-regulation-in-2025)
+append_entries: 1
+Finish: 2025-04-14 16:28:25.529014
