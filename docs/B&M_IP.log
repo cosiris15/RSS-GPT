@@ -34988,3 +34988,12 @@ Existing_entries: 136
 Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
 append_entries: 0
 Finish: 2025-04-15 06:32:13.174203
+------------------------------------------------------
+Started: 2025-04-15 08:30:42.976541
+Existing_entries: 136
+Fetching from https://www.bakermckenzie.com/en/rss-landing/expertise/intellectual-property
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Wong & Partners Hires Celia Cheah to its Intellectual Property Practice](https://www.bakermckenzie.com/en/newsroom/2025/04/celia-cheah)
+append_entries: 1
+Finish: 2025-04-15 08:30:43.581123
